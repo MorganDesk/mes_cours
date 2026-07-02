@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/distributivite-simple/","title":"Distributivité simple","tags":["distributivité","développer"],"dg-note-properties":{"title":"Distributivité simple","description":"Connaître et savoir utiliser la distributivité double.","tags":["distributivité","développer"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
-# Revoir :
-[[Modules/Modules 5e/Vocabulaire des opérations\|Vocabulaire des opérations]]
-[[Modules/Modules 5e/Distributivité simple et calcul réfléchi\|Distributivité simple et calcul réfléchi]]
-# Distributivité simple
 >[!propriete] Propriété : Distributivité simple
 >Pour tous nombres *k*, *a* et *b* :
 >$$k(a+b)=ka+kb$$

@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/fractions-egales/","title":"Fractions égales","dg-note-properties":{"title":"Fractions égales","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Revoir
-- [[Modules/Modules 6e/Multiple et diviseur\|Multiple et diviseur]]
-- [[Modules/Modules 6e/Critères de divisibilité\|Critères de divisibilité]]
-
-# Fractions égales
 >[!propriete] Propriété (admise) :
 >Un quotient ne change pas quand on multiplie (ou divise) son numérateur et son dénominateur par un même nombre non nul.
 >$$\frac{a}{b}=\frac{a \times k}{b \times k} \text{ et } \frac{a}{b}=\frac{a \div k}{b \div k}$$

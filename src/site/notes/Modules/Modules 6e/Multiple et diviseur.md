@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-6e/multiple-et-diviseur/","title":"Multiple et diviseur","tags":["arithmétique","multiple","diviseur"],"dg-note-properties":{"title":"Multiple et diviseur","description":"Connaître le vocabulaire multiple et diviseur.","tags":["arithmétique","multiple","diviseur"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
 ---
 
-# Multiple et diviseur
 > [!definition] Définition : 
 >Si le reste *r* d’une [[Modules/Modules 6e/Division euclidienne\|Division euclidienne]] vaut 0, alors : $$a=b\times q$$
 >On dit alors que :

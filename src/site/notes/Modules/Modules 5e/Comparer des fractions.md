@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/comparer-des-fractions/","title":"Comparer des fractions","dg-note-properties":{"tags":null,"niveaux":["5e"],"draft":false,"title":"Comparer des fractions","description":null,"theme":null}}
 ---
 
-# Comparer des fractions
 >[!propriete] Propriété :
 >- De deux fractions de même dénominateur, la plus grande est celle qui a le plus grand numérateur.
 >- De deux fractions de même numérateur, la plus grande est celle qui la le plus petit dénominateur.

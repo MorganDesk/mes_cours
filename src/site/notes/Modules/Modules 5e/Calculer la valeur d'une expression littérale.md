@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/calculer-la-valeur-d-une-expression-litterale/","title":"Calculer la valeur d'une expression littérale","tags":["littéral","calculer"],"dg-note-properties":{"title":"Calculer la valeur d'une expression littérale","description":"Savoir calculer la valeur d'une expression littérale.","tags":["littéral","calculer"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
-# Calculer la valeur d'une expression littérale
 >[!methode] Méthode : 
 >Pour calculer la valeur d’une [[Modules/Modules 5e/Expression littérale\|expression littérale]] pour une valeur donnée, on remplace la lettre par le nombre en remettant les signes de multiplication $\times$ sous-entendus.
 

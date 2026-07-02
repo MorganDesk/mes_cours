@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/tester-une-egalite-d-expressions-litterales/","title":"Tester une égalité d'expressions littérales","tags":["littéral","expression","égalité"],"dg-note-properties":{"title":"Tester une égalité d'expressions littérales","description":"Savoir tester une égalité d'expression littérales pour une valeur donnée.","tags":["littéral","expression","égalité"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
-# Tester une égalité d'expressions littérales
 >[!definition] Définition :
 >Une **égalité** est composée de deux **membres** séparés par un signe $=$.
 

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/decomposition-en-produit-de-facteurs-premiers/","title":"Décomposition en produit de facteurs premiers","tags":["arithmétique","décomposition"],"dg-note-properties":{"title":"Décomposition en produit de facteurs premiers","description":"Savoir décomposer un nombre en un produit de facteurs premiers.","tags":["arithmétique","décomposition"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
-# Décomposition en produit de facteurs premiers
 >[!propriete] Propriété :
 >On peut toujours décomposer un [[Modules/Modules généraux/Nombre entier naturel\|nombre entier naturel]] supérieur à 2 en produit de [[Modules/Modules 5e/Nombres premiers#^2c3c7f\|facteurs premiers]], cette décomposition est unique.
 

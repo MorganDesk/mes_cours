@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-l-ecriture-d-une-expression-litterale/","title":"Simplifier l’écriture d’une expression littérale","dg-note-properties":{"title":"Simplifier l’écriture d’une expression littérale","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Simplifier l’écriture d’une expression littérale
 >[!propriete] Règle de simplification d’écriture :
 >On peut supprimer le signe de multiplication $\times$ s’il est suivi d’une lettre ou d’une parenthèse.
 

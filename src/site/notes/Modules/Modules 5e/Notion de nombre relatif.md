@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/notion-de-nombre-relatif/","title":"Notion de nombre relatif","tags":["relatif"],"dg-note-properties":{"title":"Notion de nombre relatif","description":"Comprendre et utiliser les nombres relatifs à travers des contextes concrets.","tags":["relatif"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
-# Notion de nombre relatif
 Dans la vie courante, les nombres positifs ne suffisent pas toujours.
 - **Température** : au dessus de $0°C$ ($+15°C$) ou en dessous de $0°C$ ($-3°C$).
 - **Altitude** : au dessus du niveau de la mer ($+200 m$) ou en dessous du niveau de la mer ($-100 m$).

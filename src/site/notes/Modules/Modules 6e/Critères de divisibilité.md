@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-6e/criteres-de-divisibilite/","title":"Critères de divisibilité","tags":["arithmétique","divisibilité","reste"],"dg-note-properties":{"title":"Critères de divisibilité","description":"Connaître et savoir utiliser les critères de divisibilités inférieurs à 10.","tags":["arithmétique","divisibilité","reste"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
 ---
 
-# Critères de divisibilité
 Les **critères de divisibilité** sont utiles pour savoir si un [[Modules/Modules généraux/Nombre entier naturel\|nombre entier]] *a* [[Modules/Modules 6e/Multiple et diviseur#^461d4a\|est divisible par un nombre]] *b*.
 Autrement dit pour savoir si le reste de la [[Modules/Modules 6e/Division euclidienne#^21abb5\|division euclidienne]] de *a* par *b* est nul.
 

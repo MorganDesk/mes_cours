@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/fraction-et-quotient/","title":"Fraction et quotient","tags":["fraction","quotient"],"dg-note-properties":{"title":"Fraction et quotient","description":"Connaître la définition d'une fraction comme quotient.","tags":["fraction","quotient"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
-# Fraction et quotient
 >[!definition] Définition :
 >Soient deux nombres *n* et *d* ($d \neq 0$). Le quotient de *n* par *d* est le nombre qui, multiplié par *d*, donne *n*. 
 >- *n* est le **numérateur**.

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-generaux/tables-de-multiplication/","title":"Tables de multiplication","tags":["calculer","mental"],"dg-note-properties":{"title":"Tables de multiplication","description":"Les tables de multiplication de 1 à 12.","tags":["calculer","mental"],"theme":"Arithmétique","niveaux":["général"]}}
 ---
 
-# Tables de multiplication
 
 |   ×    | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |
 | :----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :----: | :----: | :----: |

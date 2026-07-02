@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/addition-et-soustraction-de-fractions/","title":"Addition et soustraction de fractions","dg-note-properties":{"title":"Addition et soustraction de fractions","description":"Savoir additionner et soustraire des fractions.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Addition et soustraction de fractions
 >[!propriete] Propriété :
 >On peut additionner (ou soustraire) deux fractions de même dénominateur. Pour cela, on additionne (ou soustrait) les numérateur et on conserve le dénominateur commun. 
 

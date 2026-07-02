@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/comparer-des-nombres-relatifs/","title":"Comparer des nombres relatifs","tags":["relatif","comparer"],"dg-note-properties":{"title":"Comparer des nombres relatifs","description":"Savoir comparer des nombres relatifs avec et sans droite graduée.","tags":["relatif","comparer"],"theme":"Nombres et calcul","niveaux":["5e"],"draft":false}}
 ---
 
-# Revoir
-[[Modules/Modules 5e/Notion de nombre relatif\|Notion de nombre relatif]]
-[[Modules/Modules 5e/Repérage sur une droite graduée\|Repérage sur une droite graduée]]
-# Comparer des nombres relatifs
 >[!propriete] Propriété (admise) :
 >Entre deux nombres relatifs, le plus grand est celui qui se trouve le plus à droite sur la droite graduée. Donc :
 >- **Entre deux nombres négatifs**, le plus grand est celui qui a la **plus petite** distance à zéro.

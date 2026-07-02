@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/additionner-des-nombres-relatifs/","title":"Additionner des nombres relatifs","dg-note-properties":{"title":"Additionner des nombres relatifs","description":"Savoir additionner des nombres relatifs.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Additionner des nombres relatifs
 >[!propriete] Propriété :
 >- **Pour additionner deux nombres de mêmes signes**, on garde le signe commun et on additionne les distances à zéro. 
 >- **Pour additionner deux nombres de signes contraires**, on garde le signe du nombre qui a la plus grande [[Modules/Modules 5e/Notion de nombre relatif#^99df79\|valeur absolue]] et on soustrait la plus petite distance à zéro de la plus grande.

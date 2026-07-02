@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/factorisation/","title":"Factorisation","dg-note-properties":{"title":"Factorisation","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Factorisation
 >[!definition] Définition :
 >**Factoriser** c’est transformer une somme ou une différence en un produit. 
 >C’est l’inverse du développement. On cherche un **facteur commun**.

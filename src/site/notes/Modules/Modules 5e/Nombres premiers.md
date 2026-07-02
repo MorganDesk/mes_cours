@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/nombres-premiers/","title":"Nombres premiers","tags":["arithmétique","premier"],"dg-note-properties":{"title":"Nombres premiers","description":"Connaître les nombres premiers.","tags":["arithmétique","premier"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
-# Nombres premiers
 >[!definition] Définition :
 >Un [[Modules/Modules généraux/Nombre entier naturel\|nombre entier naturel]] est **premier** s'il n'admet que deux [[Modules/Modules 6e/Multiple et diviseur#^461d4a\|diviseurs]] distincts : 1 et lui-même.
 { #2c3c7f}

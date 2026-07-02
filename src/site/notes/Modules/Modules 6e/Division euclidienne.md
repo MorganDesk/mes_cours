@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-6e/division-euclidienne/","title":"Division euclidienne","tags":["arithmétique","division"],"dg-note-properties":{"title":"Division euclidienne","description":"Connaître le vocabulaire de la division, savoir poser une division euclidienne.","tags":["arithmétique","division"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
 ---
 
-# Division euclidienne
 >[!definition] Définition :
 >Effectuer la **division euclidienne** d'un entier positif *a* (**dividende**) par un entier positif *b* (**diviseur**, avec *b* non nul) consiste à trouver deux entiers uniques : le **quotient** *q* et le **reste** *r*, tels que : 
 >$$a=b\times q+r \text{ avec } 0 \leq r < b$$

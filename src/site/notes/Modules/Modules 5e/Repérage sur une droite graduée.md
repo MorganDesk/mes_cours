@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/reperage-sur-une-droite-graduee/","title":"Repérage sur une droite graduée","tags":["relatif","droite"],"dg-note-properties":{"title":"Repérage sur une droite graduée","description":"Savoir repérer un nombre relatif sur une droite graduée.","tags":["relatif","droite"],"theme":"Nombres et calcul","niveaux":["5e"],"draft":false}}
 ---
 
-# Revoir
-[[Modules/Modules 5e/Notion de nombre relatif\|Notion de nombre relatif]]
-# Repérage sur une droite graduée
 >[!definition] Définition :
 >Une **droite graduée** est une droite qui a :
 >- Un point nommé **origine** (d’[[Modules/Modules 5e/Repérage sur une droite graduée#^46b59e\|abscisse]] 0) ;

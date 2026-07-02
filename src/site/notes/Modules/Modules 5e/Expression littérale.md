@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/expression-litterale/","title":"Expression littérale","tags":["littéral","expression","modélisation"],"dg-note-properties":{"title":"Expression littérale","description":"Connaître le concept des expression littérales.","tags":["littéral","expression","modélisation"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
-# Expression littérale
 >[!definition] Définition :
 >Une **expression littérale** est une expression mathématique contenant une ou plusieurs lettres qui désignent des nombres (variables ou inconnues).
 

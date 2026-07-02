@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-une-fraction/","title":"Simplifier une fraction","dg-note-properties":{"title":"Simplifier une fraction","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
-# Revoir
-- [[Modules/Modules 6e/Multiple et diviseur\|Multiple et diviseur]]
-- [[Modules/Modules 6e/Critères de divisibilité\|Critères de divisibilité]]
-# Simplifier une fraction
 >[!definition] Définition :
 >**Simplifier** une fraction revient à trouver une [[Modules/Modules 5e/Fractions égales\|fraction égale]] dont le numérateur et le dénominateur sont plus petits.
 

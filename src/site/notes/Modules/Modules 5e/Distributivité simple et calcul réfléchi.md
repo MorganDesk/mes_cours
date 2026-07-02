@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/modules/modules-5e/distributivite-simple-et-calcul-reflechi/","title":"Distributivité simple et calcul réfléchi","tags":["arithmétique","calculer"],"dg-note-properties":{"title":"Distributivité simple et calcul réfléchi","description":"Savoir calculer un produit complexe sans poser l'opétation.","tags":["arithmétique","calculer"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
-# Distributivité simple et calcul réfléchi
 Le calcul réfléchi est une application de la [[Modules/Modules 5e/Distributivité simple#^76c514\|distributivité simple]], notion vue plus tard dans l’année.
 
 >[!exemple] Exemples :
