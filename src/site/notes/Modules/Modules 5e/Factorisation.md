@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/factorisation/","title":"Factorisation","dg-note-properties":{"title":"Factorisation","description":null,"tags":null,"theme":null,"niveaux":null,"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/factorisation/","title":"Factorisation","dg-note-properties":{"title":"Factorisation","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
 # Factorisation

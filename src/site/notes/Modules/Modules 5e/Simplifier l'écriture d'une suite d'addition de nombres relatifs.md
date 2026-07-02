@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-l-ecriture-d-une-suite-d-addition-de-nombres-relatifs/","title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","dg-note-properties":{"title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","description":"Savoir simplifier l'écriture d'une d'une expression contenant des nombres relatifs.","tags":null,"theme":null,"niveaux":null,"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-l-ecriture-d-une-suite-d-addition-de-nombres-relatifs/","title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","dg-note-properties":{"title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","description":"Savoir simplifier l'écriture d'une d'une expression contenant des nombres relatifs.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
 ---
 
 # Simplifier l'écriture d'une suite d'addition de nombres relatifs
