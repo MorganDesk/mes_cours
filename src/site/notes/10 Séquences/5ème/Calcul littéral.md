@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-sequences/5eme/calcul-litteral/","title":"Calcul littéral","tags":["littéral","distributivité","égalité","développer","factoriser"],"dg-note-properties":{"title":"Calcul littéral","description":"Tout savoir sur le calcul littéral en 5e","tags":["littéral","distributivité","égalité","développer","factoriser"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"dg-path":" Séquences/5ème/Calcul littéral.md","permalink":"/sequences/5eme/calcul-litteral/","title":"Calcul littéral","tags":["littéral","distributivité","égalité","développer","factoriser"],"dg-note-properties":{"title":"Calcul littéral","description":"Tout savoir sur le calcul littéral en 5e","tags":["littéral","distributivité","égalité","développer","factoriser"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
 ---
 
 # Calcul littéral

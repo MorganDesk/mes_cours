@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-sequences/5eme/nombres-relatifs/","title":"Nombres relatifs","tags":["relatif","calculer","comparer","ordonner"],"dg-note-properties":{"title":"Nombres relatifs","description":"Tout savoir sur les nombres relatifs en 5ème.","tags":["relatif","calculer","comparer","ordonner"],"theme":null,"niveaux":null,"draft":true}}
+{"dg-publish":true,"dg-path":" Séquences/5ème/Nombres relatifs.md","permalink":"/sequences/5eme/nombres-relatifs/","title":"Nombres relatifs","tags":["relatif","calculer","comparer","ordonner"],"dg-note-properties":{"title":"Nombres relatifs","description":"Tout savoir sur les nombres relatifs en 5ème.","tags":["relatif","calculer","comparer","ordonner"],"theme":null,"niveaux":null,"draft":true}}
 ---
 
 # Revoir

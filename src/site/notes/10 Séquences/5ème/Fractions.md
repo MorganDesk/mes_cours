@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-sequences/5eme/fractions/","title":"Fractions","tags":["arithmétique","fraction","simplification","nombre","quotient"],"dg-note-properties":{"title":"Fractions","description":"Tout savoir sur les fractions en 5ème.","tags":["arithmétique","fraction","simplification","nombre","quotient"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"dg-path":" Séquences/5ème/Fractions.md","permalink":"/sequences/5eme/fractions/","title":"Fractions","tags":["arithmétique","fraction","simplification","nombre","quotient"],"dg-note-properties":{"title":"Fractions","description":"Tout savoir sur les fractions en 5ème.","tags":["arithmétique","fraction","simplification","nombre","quotient"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
 # Revoir

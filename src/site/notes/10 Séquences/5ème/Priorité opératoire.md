@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-sequences/5eme/priorite-operatoire/","title":"Priorité opératoire","tags":["arithmétique","calculer","priorité"],"dg-note-properties":{"title":"Priorité opératoire","description":"Tout savoir sur les expression numériques.","tags":["arithmétique","calculer","priorité"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"dg-path":" Séquences/5ème/Priorité opératoire.md","permalink":"/sequences/5eme/priorite-operatoire/","title":"Priorité opératoire","tags":["arithmétique","calculer","priorité"],"dg-note-properties":{"title":"Priorité opératoire","description":"Tout savoir sur les expression numériques.","tags":["arithmétique","calculer","priorité"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
 ---
 
 # Priorité opératoire
