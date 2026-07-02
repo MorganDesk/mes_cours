@@ -24,3 +24,4 @@
 
 >[!exemple] Exemples :
 >$$\begin{aligned}C&=32+45+68\\&=\underline{32+68}+45\\&=\underline{100+45}\\&=145\end{aligned}$$
+
