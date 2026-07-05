@@ -4,7 +4,9 @@
 
 1. [[Modules/Modules 5e/Expression littérale\|Expression littérale]]
 2. [[Modules/Modules 5e/Simplifier l’écriture d’une expression littérale\|Simplifier l’écriture d’une expression littérale]]
-3. [[Modules/Modules 5e/Distributivité simple\|Distributivité simple]]
-4. [[Modules/Modules 5e/Factorisation\|Factorisation]]
-5. [[Modules/Modules 5e/Réduire une expression\|Réduire une expression]]
+3. [[Modules/Modules 5e/Calculer la valeur d'une expression littérale\|Calculer la valeur d'une expression littérale]]
+4. [[Modules/Modules 5e/Produire une expression littérale\|Produire une expression littérale]]
+5. [[Modules/Modules 5e/Distributivité simple\|Distributivité simple]]
+
+6. [[Modules/Modules 5e/Réduire une expression\|Réduire une expression]]
 
