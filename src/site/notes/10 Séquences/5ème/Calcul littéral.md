@@ -7,6 +7,4 @@
 3. [[Modules/Modules 5e/Distributivité simple\|Distributivité simple]]
 4. [[Modules/Modules 5e/Factorisation\|Factorisation]]
 5. [[Modules/Modules 5e/Réduire une expression\|Réduire une expression]]
-6. [[Modules/Modules 5e/Tester une égalité d'expressions littérales\|Tester une égalité d'expressions littérales]]
-7. [[Equation du type x + b = c\|Equation du type x + b = c]]
-8. [[Equation du type ax = c\|Equation du type ax = c]]
+
