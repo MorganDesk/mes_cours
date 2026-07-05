@@ -1,0 +1,60 @@
+{
+  "/": [
+    " Séquences",
+    "Modules",
+    "index"
+  ],
+  "/ Séquences": [
+    "5ème"
+  ],
+  "/ Séquences/5ème": [
+    "Calcul littéral",
+    "Nombres rationnels",
+    "Nombres relatifs",
+    "Priorité opératoire"
+  ],
+  "/Modules": [
+    "Modules 5e",
+    "Modules 6e",
+    "Modules généraux"
+  ],
+  "/Modules/Modules 5e": [
+    "Addition et soustraction de fractions",
+    "Additionner des nombres relatifs",
+    "Calculer la valeur d'une expression littérale",
+    "Calculer une expression avec parenthèses",
+    "Calculer une expression quotient",
+    "Calculer une expression sans parenthèses",
+    "Comparer des fractions",
+    "Comparer des nombres relatifs",
+    "Décomposition en produit de facteurs premiers",
+    "Distributivité simple",
+    "Distributivité simple et calcul réfléchi",
+    "Expression littérale",
+    "Factorisation",
+    "Fraction et quotient",
+    "Fractions égales",
+    "Nature d'une expression",
+    "Nombres premiers",
+    "Notion de nombre relatif",
+    "Repérage sur une droite graduée",
+    "Simplifier l’écriture d’une expression littérale",
+    "Simplifier l'écriture d'une suite d'addition de nombres relatifs",
+    "Simplifier une fraction",
+    "Soustraire des nombres relatifs",
+    "Tester une égalité d'expressions littérales",
+    "Vocabulaire des opérations"
+  ],
+  "/Modules/Modules 6e": [
+    "Critères de divisibilité",
+    "Division euclidienne",
+    "Multiple et diviseur"
+  ],
+  "/Modules/Modules généraux": [
+    "Expression numérique",
+    "Nombre entier",
+    "Nombre entier naturel",
+    "Opérateur mathématique",
+    "Tables de multiplication"
+  ]
+}
