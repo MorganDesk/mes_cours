@@ -5,4 +5,5 @@
 1. [[Modules/Modules 5e/Tester une égalité d'expressions littérales\|Tester une égalité d'expressions littérales]]
 2. [[Modules/Modules 5e/Résoudre une équation\|Résoudre une équation]]
 3. [[Modules/Modules 5e/Equation du type x + b = c\|Equation du type x + b = c]]
-4. [[Equation du type ax = c\|Equation du type ax = c]]
+4. [[Modules/Modules 5e/Equation du type ax = c\|Equation du type ax = c]]
+5. [[Modules/Modules 5e/Mise en équation d’un problème\|Mise en équation d’un problème]]

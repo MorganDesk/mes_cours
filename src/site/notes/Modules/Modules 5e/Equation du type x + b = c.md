@@ -10,7 +10,11 @@
 
 >[!exemple] Exemple :
 >$$\begin{aligned}x+6&=10\\x+6-6&=10-6\\x&=4\end{aligned}$$
+>L’ensemble des solutions de l’équation est $S=\{4\}$.
 
 >[!exemple] Exemple :
 >$$\begin{aligned}x-3&=5\\x-3+3&=5+3\\x&=8\end{aligned}$$
+>L’ensemble des solutions de l’équation est $S=\{8\}$.
+
+
 
