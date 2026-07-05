@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-une-expression-sans-parentheses/","title":"Calculer une expression sans parenthèses","tags":["arithmétique","priorité"],"dg-note-properties":{"title":"Calculer une expression sans parenthèses","description":"Calculer une expression numérique sans parenthèses en respectant la priorité opératoire.","tags":["arithmétique","priorité"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-une-expression-sans-parentheses/","title":"Calculer une expression sans parenthèses","tags":["arithmétique","priorité"],"dg-note-properties":{"title":"Calculer une expression sans parenthèses","description":"Calculer une expression numérique sans parenthèses en respectant la priorité opératoire.","tags":["arithmétique","priorité"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété : Priorités des opérations

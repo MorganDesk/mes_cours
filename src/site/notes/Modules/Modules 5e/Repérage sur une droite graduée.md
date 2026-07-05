@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/reperage-sur-une-droite-graduee/","title":"Repérage sur une droite graduée","tags":["relatif","droite"],"dg-note-properties":{"title":"Repérage sur une droite graduée","description":"Savoir repérer un nombre relatif sur une droite graduée.","tags":["relatif","droite"],"theme":"Nombres et calcul","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/reperage-sur-une-droite-graduee/","title":"Repérage sur une droite graduée","tags":["relatif","droite"],"dg-note-properties":{"title":"Repérage sur une droite graduée","description":"Savoir repérer un nombre relatif sur une droite graduée.","tags":["relatif","droite"],"theme":"Nombres et calcul","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

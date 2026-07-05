@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/decomposition-en-produit-de-facteurs-premiers/","title":"Décomposition en produit de facteurs premiers","tags":["arithmétique","décomposition"],"dg-note-properties":{"title":"Décomposition en produit de facteurs premiers","description":"Savoir décomposer un nombre en un produit de facteurs premiers.","tags":["arithmétique","décomposition"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/decomposition-en-produit-de-facteurs-premiers/","title":"Décomposition en produit de facteurs premiers","tags":["arithmétique","décomposition"],"dg-note-properties":{"title":"Décomposition en produit de facteurs premiers","description":"Savoir décomposer un nombre en un produit de facteurs premiers.","tags":["arithmétique","décomposition"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

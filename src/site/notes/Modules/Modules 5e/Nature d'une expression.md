@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/nature-d-une-expression/","title":"Nature d'une expression","tags":["nature","expression"],"dg-note-properties":{"title":"Nature d'une expression","description":"Déterminer la nature d'une expression.","tags":["nature","expression"],"theme":"Nombres et calcul","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/nature-d-une-expression/","title":"Nature d'une expression","tags":["nature","expression"],"dg-note-properties":{"title":"Nature d'une expression","description":"Déterminer la nature d'une expression.","tags":["nature","expression"],"theme":"Nombres et calcul","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété (admise) :

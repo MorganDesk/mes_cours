@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/notion-de-nombre-relatif/","title":"Notion de nombre relatif","tags":["relatif"],"dg-note-properties":{"title":"Notion de nombre relatif","description":"Comprendre et utiliser les nombres relatifs à travers des contextes concrets.","tags":["relatif"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/notion-de-nombre-relatif/","title":"Notion de nombre relatif","tags":["relatif"],"dg-note-properties":{"title":"Notion de nombre relatif","description":"Comprendre et utiliser les nombres relatifs à travers des contextes concrets.","tags":["relatif"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 Dans la vie courante, les nombres positifs ne suffisent pas toujours.

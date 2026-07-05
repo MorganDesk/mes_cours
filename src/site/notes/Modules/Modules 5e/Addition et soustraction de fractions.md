@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/addition-et-soustraction-de-fractions/","title":"Addition et soustraction de fractions","dg-note-properties":{"title":"Addition et soustraction de fractions","description":"Savoir additionner et soustraire des fractions.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/addition-et-soustraction-de-fractions/","title":"Addition et soustraction de fractions","tags":["additionner","soustraire","fraction"],"dg-note-properties":{"title":"Addition et soustraction de fractions","description":"Savoir additionner et soustraire des fractions.","tags":["additionner","soustraire","fraction"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

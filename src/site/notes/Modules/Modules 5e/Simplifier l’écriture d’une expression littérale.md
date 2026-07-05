@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-l-ecriture-d-une-expression-litterale/","title":"Simplifier l’écriture d’une expression littérale","dg-note-properties":{"title":"Simplifier l’écriture d’une expression littérale","description":null,"tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-l-ecriture-d-une-expression-litterale/","title":"Simplifier l’écriture d’une expression littérale","tags":["simplifier","littéral"],"dg-note-properties":{"title":"Simplifier l’écriture d’une expression littérale","description":"Savoir simplifier l'écriture d'une expression littérale.","tags":["simplifier","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!propriete] Règle de simplification d’écriture :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/comparer-des-nombres-relatifs/","title":"Comparer des nombres relatifs","tags":["relatif","comparer"],"dg-note-properties":{"title":"Comparer des nombres relatifs","description":"Savoir comparer des nombres relatifs avec et sans droite graduée.","tags":["relatif","comparer"],"theme":"Nombres et calcul","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/comparer-des-nombres-relatifs/","title":"Comparer des nombres relatifs","tags":["relatif","comparer"],"dg-note-properties":{"title":"Comparer des nombres relatifs","description":"Savoir comparer des nombres relatifs avec et sans droite graduée.","tags":["relatif","comparer"],"theme":"Nombres et calcul","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété (admise) :

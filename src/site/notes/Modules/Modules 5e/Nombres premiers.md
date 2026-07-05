@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/nombres-premiers/","title":"Nombres premiers","tags":["arithmétique","premier"],"dg-note-properties":{"title":"Nombres premiers","description":"Connaître les nombres premiers.","tags":["arithmétique","premier"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/nombres-premiers/","title":"Nombres premiers","tags":["arithmétique","premier"],"dg-note-properties":{"title":"Nombres premiers","description":"Connaître les nombres premiers.","tags":["arithmétique","premier"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

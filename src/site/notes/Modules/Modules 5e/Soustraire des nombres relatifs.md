@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/soustraire-des-nombres-relatifs/","title":"Soustraire des nombres relatifs","dg-note-properties":{"title":"Soustraire des nombres relatifs","description":"Savoir soustraire des nombres relatifs.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/soustraire-des-nombres-relatifs/","title":"Soustraire des nombres relatifs","tags":["soustraire","relatif"],"dg-note-properties":{"title":"Soustraire des nombres relatifs","description":"Savoir soustraire des nombres relatifs.","tags":["soustraire","relatif"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

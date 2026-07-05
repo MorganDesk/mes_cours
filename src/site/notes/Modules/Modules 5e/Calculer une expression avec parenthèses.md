@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-une-expression-avec-parentheses/","title":"Calculer une expression avec parenthèses","tags":["arithmétique","priorité"],"dg-note-properties":{"title":"Calculer une expression avec parenthèses","description":"Calculer une expression numérique avec parenthèses en respectant la priorité opératoire.","tags":["arithmétique","priorité"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-une-expression-avec-parentheses/","title":"Calculer une expression avec parenthèses","tags":["arithmétique","priorité"],"dg-note-properties":{"title":"Calculer une expression avec parenthèses","description":"Calculer une expression numérique avec parenthèses en respectant la priorité opératoire.","tags":["arithmétique","priorité"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété (admise) :

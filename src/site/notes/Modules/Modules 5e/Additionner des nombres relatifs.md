@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/additionner-des-nombres-relatifs/","title":"Additionner des nombres relatifs","dg-note-properties":{"title":"Additionner des nombres relatifs","description":"Savoir additionner des nombres relatifs.","tags":null,"theme":null,"niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/additionner-des-nombres-relatifs/","title":"Additionner des nombres relatifs","tags":["additionner","relatif"],"dg-note-properties":{"title":"Additionner des nombres relatifs","description":"Savoir additionner des nombres relatifs.","tags":["additionner","relatif"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

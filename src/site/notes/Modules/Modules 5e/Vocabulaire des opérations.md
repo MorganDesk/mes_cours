@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/vocabulaire-des-operations/","title":"Vocabulaire des opérations","tags":["arithmétique","vocabulaire","somme","différence","produit","quotient"],"dg-note-properties":{"title":"Vocabulaire des opérations","description":"Connaître le vocabulaire lié aux 4 opérations.","tags":["arithmétique","vocabulaire","somme","différence","produit","quotient"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/vocabulaire-des-operations/","title":"Vocabulaire des opérations","tags":["arithmétique","vocabulaire","somme","différence","produit","quotient"],"dg-note-properties":{"title":"Vocabulaire des opérations","description":"Connaître le vocabulaire lié aux 4 opérations.","tags":["arithmétique","vocabulaire","somme","différence","produit","quotient"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

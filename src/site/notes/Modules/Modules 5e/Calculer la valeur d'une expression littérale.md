@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-la-valeur-d-une-expression-litterale/","title":"Calculer la valeur d'une expression littérale","tags":["littéral","calculer"],"dg-note-properties":{"title":"Calculer la valeur d'une expression littérale","description":"Savoir calculer la valeur d'une expression littérale.","tags":["littéral","calculer"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/calculer-la-valeur-d-une-expression-litterale/","title":"Calculer la valeur d'une expression littérale","tags":["littéral","calculer"],"dg-note-properties":{"title":"Calculer la valeur d'une expression littérale","description":"Savoir calculer la valeur d'une expression littérale.","tags":["littéral","calculer"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!methode] Méthode : 

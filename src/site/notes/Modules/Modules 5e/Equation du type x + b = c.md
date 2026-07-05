@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/equation-du-type-x-b-c/","title":"Equation du type x + b = c","tags":["littéral","équation","résolution"],"dg-note-properties":{"title":"Equation du type x + b = c","description":"Résoudre une équation somme, sans coefficient.","tags":["littéral","équation","résolution"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/equation-du-type-x-b-c/","title":"Equation du type x + b = c","tags":["littéral","équation","résolution"],"dg-note-properties":{"title":"Equation du type x + b = c","description":"Résoudre une équation somme.","tags":["littéral","équation","résolution"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

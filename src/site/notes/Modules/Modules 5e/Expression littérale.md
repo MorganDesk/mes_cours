@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/expression-litterale/","title":"Expression littérale","tags":["littéral","expression","modélisation"],"dg-note-properties":{"title":"Expression littérale","description":"Connaître le concept des expression littérales.","tags":["littéral","expression","modélisation"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/expression-litterale/","title":"Expression littérale","tags":["littéral","expression","modélisation"],"dg-note-properties":{"title":"Expression littérale","description":"Connaître le concept des expression littérales.","tags":["littéral","expression","modélisation"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

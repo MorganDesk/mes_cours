@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/fraction-et-quotient/","title":"Fraction et quotient","tags":["fraction","quotient"],"dg-note-properties":{"title":"Fraction et quotient","description":"Connaître la définition d'une fraction comme quotient.","tags":["fraction","quotient"],"theme":"Calcul littéral","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/fraction-et-quotient/","title":"Fraction et quotient","tags":["fraction","quotient"],"dg-note-properties":{"title":"Fraction et quotient","description":"Connaître la définition d'une fraction comme quotient.","tags":["fraction","quotient"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :
