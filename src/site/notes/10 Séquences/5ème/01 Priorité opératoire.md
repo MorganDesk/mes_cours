@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Séquences/5ème/01 Priorité opératoire.md","permalink":"/sequences/5eme/01-priorite-operatoire/","title":"01 Priorité opératoire","tags":["arithmétique","calculer","priorité"],"dg-note-properties":{"title":"01 Priorité opératoire","description":"Tout savoir sur les expression numériques.","tags":["arithmétique","calculer","priorité"],"theme":"Arithmétique","niveaux":["5e"],"draft":false}}
+{"dg-publish":true,"dg-path":" Séquences/5ème/01 Priorité opératoire.md","permalink":"/sequences/5eme/01-priorite-operatoire/","title":"01 Priorité opératoire","tags":["arithmétique","calculer","priorité"],"dg-note-properties":{"title":"01 Priorité opératoire","description":"Tout savoir sur les expression numériques.","tags":["arithmétique","calculer","priorité"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 1. [[Modules/Modules 5e/Calculer une expression avec parenthèses\|Calculer une expression avec parenthèses]] 

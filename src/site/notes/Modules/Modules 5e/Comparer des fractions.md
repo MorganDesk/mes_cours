@@ -11,7 +11,7 @@
 >- $\frac{5}{4} > \frac{5}{8}$ car les deux fractions ont le même numérateur et $4 < 8$
 
 >[!methode] Méthode :
->Si les fractions n’ont ni le même numérateur, ni le même dénominateur, on peut alors modifier l’écriture d’une fraction (ou des deux), avec les [[Modules/Modules 5e/Fractions égales\|fractions égales]], pour qu’elles aient un numérateur ou dénominateur commun. 
+>Si les fractions n’ont ni le même numérateur, ni le même dénominateur, on peut alors modifier l’écriture d’une fraction (ou des deux), en les [[Modules/Modules 5e/Fractions égales\|réduisant au même dénominateur]].
 
 >[!exemple] Exemple :
 >Comparer $\frac{2}{3}$ et $\frac{3}{5}$.
@@ -21,5 +21,4 @@
 >On a $\frac{10}{15} > \frac{9}{15}$ donc $\frac{2}{3} > \frac{3}{5}$.
 
 >[!remarque] Remarque :
->Pour comparer des fractions, on peut aussi comparer leurs valeurs décimales.
-
+>On pourra aussi remarquer que parfois, une fraction est plus grande que l’autre en les comparant à $1$ ou à $\frac{1}{2}$.

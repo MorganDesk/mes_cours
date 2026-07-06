@@ -20,3 +20,9 @@
 >[!definition] Définition :
 >Deux nombres sont **opposés** si leur somme vaut 0. Les nombres (-4) et (+4) sont opposés.
 
+>[!methode] Méthode : Additionner plusieurs nombres relatifs
+>Pour additionner plusieurs nombres relatifs, on regroupe ensemble les nombres opposés et les nombres de même signe.
+
+>[!exemple] Exemple :
+>$$\begin{aligned}(+2)+(-4)+(+5)+(-2)+(-6)+(+1)&=\textcolor{red}{(+2)+(-2)}+\textcolor{green}{(-4)+(-6)}+\textcolor{blue}{(+5)+(+1)}\\&=\textcolor{red}{0}+\textcolor{green}{(-10)}+\textcolor{blue}{(+6)}\\&=-4 \end{aligned}$$
+

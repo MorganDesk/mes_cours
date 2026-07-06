@@ -7,3 +7,4 @@
 [[10 Séquences/5ème/Nombres rationnels\|Nombres rationnels]]
 [[10 Séquences/5ème/Calcul littéral\|Calcul littéral]]
 [[10 Séquences/5ème/Equations\|Equations]]
+[[10 Séquences/5ème/Puissances\|Puissances]]

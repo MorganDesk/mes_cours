@@ -3,7 +3,8 @@
 ---
 
 >[!propriete] Propriété :
->On peut additionner (ou soustraire) deux fractions de même dénominateur. Pour cela, on additionne (ou soustrait) les numérateur et on conserve le dénominateur commun. 
+>On peut additionner (ou soustraire) deux fractions de **même dénominateur**. Pour cela, on additionne (ou soustrait) les numérateur et on conserve le dénominateur commun. 
+>$$\frac{a}{c}+\frac{b}{c}=\frac{a+b}{c} \text{ et } \frac{a}{c}-\frac{b}{c}=\frac{a-b}{c}$$
 
 >[!exemple] Exemple :
 >- $\frac{5}{7}+\frac{3}{7}=\frac{5+3}{7}=\frac{8}{7}$

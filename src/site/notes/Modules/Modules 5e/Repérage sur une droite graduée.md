@@ -7,6 +7,8 @@
 >- Un point nommé **origine** (d’[[Modules/Modules 5e/Repérage sur une droite graduée#^46b59e\|abscisse]] 0) ;
 >- un sens (de gauche à droite généralement) ;
 >- une unité de longueur reportée régulièrement.
+{ #94e691}
+
 
 >[!definition] Définition :
 >Sur une droite graduée, chaque point est repéré par un nombre relatif. On dit que ce nombre est l’**abscisse de ce point**.{ #46b59e}

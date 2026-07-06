@@ -8,7 +8,7 @@ Dans la vie courante, les nombres positifs ne suffisent pas toujours.
 - **Finances** : un compte bancaire peut avoir un solde positif ($+120\texteuro$, on possède de l’argent) ou négatif ($-50\texteuro$, on a une dette envers la banque).
 
 >[!definition] Définition :
->Un nombre relatif est formé d’un **signe** ($+$ ou $-$) et d’un nombre appelé **distance à zéro**. 
+>Un **nombre relatif** est formé d’un **signe** ($+$ ou $-$) et d’un nombre appelé **distance à zéro**. 
 >- Les nombres comportant un signe $-$ sont appelés **nombres négatifs**.
 >- Les nombres comportant un signe $+$ sont appelés **nombres positifs**.
 { #aae20e}

@@ -3,7 +3,7 @@
 ---
 
 >[!propriete] Propriété :
->Dans une suite d’additions de nombres relatifs, on peut simplifier l’écriture en supprimant les parenthèses et les signes «+» d’opérations. 
+>**Dans une suite d’additions de nombres relatifs**, on peut simplifier l’écriture de l’expression en supprimant les parenthèses et les signes «+» d’opérations. 
 
 >[!exemple] Exemple :
 >$$\begin{aligned}A&=(+3)-(-4)+(+6)-(+2)\\&=(+3)+(+4)+(+6)+(-2)\\&=3+4+6-2\\&=11\end{aligned}$$

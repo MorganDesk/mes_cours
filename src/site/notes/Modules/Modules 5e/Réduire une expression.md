@@ -6,7 +6,7 @@
 >**Réduire** une expression littérale, c’est l’écrire avec le moins d’opérations possibles.
 
 >[!remarque] Remarque :
->On peut réduire une expression à l’aide de la factorisation.
+>On peut réduire une expression à l’aide de la [[Modules/Modules 5e/Factorisation\|factorisation]].
 
 >[!exemple] Exemples :
 >1. $3x+2x=3 \times x + 2 \times x = (3+2) \times x = 5 \times x = 5x$
