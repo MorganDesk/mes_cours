@@ -10,4 +10,4 @@
 [[10 Séquences/5ème/Puissances\|Puissances]]
 [[10 Séquences/5ème/Angles et parallélisme\|Angles et parallélisme]]
 [[10 Séquences/5ème/Symétrie centrale\|Symétrie centrale]]
-
+[[10 Séquences/5ème/Triangles\|Triangles]]
