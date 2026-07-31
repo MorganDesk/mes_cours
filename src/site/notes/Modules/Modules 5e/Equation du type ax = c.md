@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/equation-du-type-ax-c/","title":"Equation du type ax = c","hide":true,"tags":["équation","littéral"],"dg-note-properties":{"title":"Equation du type ax = c","description":"Résoudre une équation produit.","tags":["équation","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/equation-du-type-ax-c/","title":"Equation du type ax = c","tags":["équation","littéral"],"dg-note-properties":{"title":"Equation du type ax = c","description":"Résoudre une équation produit.","tags":["équation","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/reduire-une-expression/","title":"Réduire une expression","hide":true,"tags":["réduire","littéral"],"dg-note-properties":{"title":"Réduire une expression","description":"Réduire une expression littérale.","tags":["réduire","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/reduire-une-expression/","title":"Réduire une expression","tags":["réduire","littéral"],"dg-note-properties":{"title":"Réduire une expression","description":"Réduire une expression littérale.","tags":["réduire","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

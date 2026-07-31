@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/proprietes-de-la-symetrie-centrale/","title":"Propriétés de la symétrie centrale","hide":true,"tags":["géométrie","symétrie"],"dg-note-properties":{"title":"Propriétés de la symétrie centrale","description":"Connaître et savoir utiliser les propriétés de la symétrie centrale.","tags":["géométrie","symétrie"],"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/proprietes-de-la-symetrie-centrale/","title":"Propriétés de la symétrie centrale","tags":["géométrie","symétrie"],"dg-note-properties":{"title":"Propriétés de la symétrie centrale","description":"Connaître et savoir utiliser les propriétés de la symétrie centrale.","tags":["géométrie","symétrie"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

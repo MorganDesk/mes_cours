@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/ecriture-fractionnaire/","title":"Ecriture fractionnaire","hide":true,"tags":["fraction","quotient"],"dg-note-properties":{"title":"Ecriture fractionnaire","description":"Connaître la définition d'une fraction comme quotient.","tags":["fraction","quotient"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/ecriture-fractionnaire/","title":"Ecriture fractionnaire","tags":["fraction","quotient"],"dg-note-properties":{"title":"Ecriture fractionnaire","description":"Connaître la définition d'une fraction comme quotient.","tags":["fraction","quotient"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

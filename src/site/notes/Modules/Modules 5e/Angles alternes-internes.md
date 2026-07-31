@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/angles-alternes-internes/","title":"Angles alternes-internes","hide":true,"tags":["géométrie","alterne","interne","parallèle"],"dg-note-properties":{"title":"Angles alternes-internes","description":"Connaître et savoir utiliser les propriétés des angles alternes-internes.","tags":["géométrie","alterne","interne","parallèle"],"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/angles-alternes-internes/","title":"Angles alternes-internes","tags":["géométrie","alterne","interne","parallèle"],"dg-note-properties":{"title":"Angles alternes-internes","description":"Connaître et savoir utiliser les propriétés des angles alternes-internes.","tags":["géométrie","alterne","interne","parallèle"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriétés :

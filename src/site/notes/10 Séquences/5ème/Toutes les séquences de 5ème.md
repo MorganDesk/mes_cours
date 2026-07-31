@@ -8,3 +8,6 @@
 [[10 Séquences/5ème/Calcul littéral\|Calcul littéral]]
 [[10 Séquences/5ème/Equations\|Equations]]
 [[10 Séquences/5ème/Puissances\|Puissances]]
+[[10 Séquences/5ème/Angles et parallélisme\|Angles et parallélisme]]
+[[10 Séquences/5ème/Symétrie centrale\|Symétrie centrale]]
+

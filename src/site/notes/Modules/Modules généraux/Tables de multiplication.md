@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-generaux/tables-de-multiplication/","title":"Tables de multiplication","hide":true,"tags":["calculer","mental"],"dg-note-properties":{"title":"Tables de multiplication","description":"Les tables de multiplication de 1 à 12.","tags":["calculer","mental"],"theme":"Arithmétique","niveaux":["général"]}}
+{"dg-publish":true,"permalink":"/modules/modules-generaux/tables-de-multiplication/","title":"Tables de multiplication","tags":["calculer","mental"],"dg-note-properties":{"title":"Tables de multiplication","description":"Les tables de multiplication de 1 à 12.","tags":["calculer","mental"],"theme":"Arithmétique","niveaux":["général"]}}
 ---
 
 

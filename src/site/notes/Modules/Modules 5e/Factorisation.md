@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/factorisation/","title":"Factorisation","hide":true,"tags":["littéral","factoriser"],"dg-note-properties":{"title":"Factorisation","description":"Savoir factoriser une expression littérale.","tags":["littéral","factoriser"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/factorisation/","title":"Factorisation","tags":["littéral","factoriser"],"dg-note-properties":{"title":"Factorisation","description":"Savoir factoriser une expression littérale.","tags":["littéral","factoriser"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

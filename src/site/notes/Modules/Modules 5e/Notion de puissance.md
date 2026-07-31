@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/notion-de-puissance/","title":"Notion de puissance","hide":true,"tags":["arithmétique","puissance","exposant"],"dg-note-properties":{"title":"Notion de puissance","description":"Connaître la définition d'une puissance et le vocabulaire lié.","tags":["arithmétique","puissance","exposant"],"theme":"Arithmétique","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/notion-de-puissance/","title":"Notion de puissance","tags":["arithmétique","puissance","exposant"],"dg-note-properties":{"title":"Notion de puissance","description":"Connaître la définition d'une puissance et le vocabulaire lié.","tags":["arithmétique","puissance","exposant"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

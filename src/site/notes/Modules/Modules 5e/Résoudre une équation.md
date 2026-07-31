@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/resoudre-une-equation/","title":"Résoudre une équation","hide":true,"tags":["littéral","équation","résolution"],"dg-note-properties":{"title":"Résoudre une équation","description":"Connaître le vocabulaire lié aux équations.","tags":["littéral","équation","résolution"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/resoudre-une-equation/","title":"Résoudre une équation","tags":["littéral","équation","résolution"],"dg-note-properties":{"title":"Résoudre une équation","description":"Connaître le vocabulaire lié aux équations.","tags":["littéral","équation","résolution"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

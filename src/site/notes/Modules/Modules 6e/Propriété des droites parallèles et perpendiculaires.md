@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/propriete-des-droites-paralleles-et-perpendiculaires/","title":"Propriété des droites parallèles et perpendiculaires","hide":true,"tags":["géométrie","parallèle","perpendiculaire"],"dg-note-properties":{"title":"Propriété des droites parallèles et perpendiculaires","description":"Connaître et savoir utiliser les propriétés des droites parallèles et perpendiculaires.","tags":["géométrie","parallèle","perpendiculaire"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/propriete-des-droites-paralleles-et-perpendiculaires/","title":"Propriété des droites parallèles et perpendiculaires","tags":["géométrie","parallèle","perpendiculaire"],"dg-note-properties":{"title":"Propriété des droites parallèles et perpendiculaires","description":"Connaître et savoir utiliser les propriétés des droites parallèles et perpendiculaires.","tags":["géométrie","parallèle","perpendiculaire"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriétés :
