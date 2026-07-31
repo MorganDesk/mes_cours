@@ -3,9 +3,9 @@
 ---
 
 [[Modules/Modules 6e/Inégalité triangulaire\|Inégalité triangulaire]]
-[[Somme des angles dans un triangle\|Somme des angles dans un triangle]]
+[[Modules/Modules 5e/Somme des angles dans un triangle\|Somme des angles dans un triangle]]
 
-[[Médiatrices d’un triangle\|Médiatrices d’un triangle]]
+[[Modules/Modules 5e/Médiatrices d’un triangle\|Médiatrices d’un triangle]]
 [[Hauteurs d’un triangle\|Hauteurs d’un triangle]]
 [[Médianes d’un triangle\|Médianes d’un triangle]]
 [[Bissectrices d’un triangles\|Bissectrices d’un triangles]]
@@ -14,3 +14,4 @@
 # Revoir
 [[Modules/Modules 6e/Construire un triangle au compas\|Construire un triangle au compas]]
 [[Modules/Modules 6e/Construire un triangle au rapporteur\|Construire un triangle au rapporteur]]
+[[Modules/Modules 6e/Médiatrice d’un segment\|Médiatrice d’un segment]]
