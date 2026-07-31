@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"MorganDesk","tags":["gardenEntry"],"dg-note-properties":{"title":"MorganDesk","description":"Modules pour apprendre les mathématiques.","draft":false}}
+{"dg-publish":true,"permalink":"/index/","title":"Accueil","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{"title":"Accueil","description":"Modules pour apprendre les mathématiques.","draft":false}}
 ---
 
 # Bienvenue sur MorganDesk
