@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-generaux/expression-numerique/","dg-note-properties":{"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-generaux/expression-numerique/","dg-note-properties":{"draft":false,"niveaux":["général"],"theme":"Arithmétique"}}
 ---
 
 >[!definition] Définition :
