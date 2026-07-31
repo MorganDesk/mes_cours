@@ -150,10 +150,9 @@ function assignNested(obj, keyPath, value) {
   for (let i = 0; i < lastKeyIndex; ++i) {
     const key = keyPath[i];
     if (!(key in obj)) {
-      obj[key] = { isFolder: true, isEmpty: true };  // Tracks empty state
+      obj[key] = { isFolder: true };
     }
     obj = obj[key];
-    if (!value.hide) obj.isEmpty = false; // Folder is not empty if a visible note is found
   }
   obj[keyPath[lastKeyIndex]] = value;
 }
