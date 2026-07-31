@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-generaux/nombre-entier-naturel/","dg-note-properties":{"draft":false,"niveaux":["général"],"theme":"Nombres et calcul"}}
+{"dg-publish":true,"permalink":"/modules/modules-generaux/nombre-entier-naturel/","hide":true,"dg-note-properties":{"draft":false,"niveaux":["général"],"theme":"Nombres et calcul"}}
 ---
 
 >[!definition] Définition :

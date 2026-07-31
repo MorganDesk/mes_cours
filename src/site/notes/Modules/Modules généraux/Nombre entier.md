@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-generaux/nombre-entier/","title":"Nombre entier","dg-note-properties":{"title":"Nombre entier","description":null,"tags":null,"theme":"Nombres et calcul","niveaux":["général"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-generaux/nombre-entier/","title":"Nombre entier","hide":true,"dg-note-properties":{"title":"Nombre entier","description":null,"tags":null,"theme":"Nombres et calcul","niveaux":["général"],"draft":false}}
 ---
 
 >[!definition] Définition :

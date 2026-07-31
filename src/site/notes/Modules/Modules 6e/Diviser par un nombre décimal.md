@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/diviser-par-un-nombre-decimal/","title":"Diviser par un nombre décimal","tags":["arithmétique","division"],"dg-note-properties":{"title":"Diviser par un nombre décimal","description":"Savoir diviser un nombre par un nombre décimal.","tags":["arithmétique","division"],"theme":"Arithmétique","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/diviser-par-un-nombre-decimal/","title":"Diviser par un nombre décimal","hide":true,"tags":["arithmétique","division"],"dg-note-properties":{"title":"Diviser par un nombre décimal","description":"Savoir diviser un nombre par un nombre décimal.","tags":["arithmétique","division"],"theme":"Arithmétique","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriété :

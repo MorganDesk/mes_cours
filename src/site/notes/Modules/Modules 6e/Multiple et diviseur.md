@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/multiple-et-diviseur/","title":"Multiple et diviseur","tags":["arithmétique","multiple","diviseur"],"dg-note-properties":{"title":"Multiple et diviseur","description":"Connaître le vocabulaire multiple et diviseur.","tags":["arithmétique","multiple","diviseur"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/multiple-et-diviseur/","title":"Multiple et diviseur","hide":true,"tags":["arithmétique","multiple","diviseur"],"dg-note-properties":{"title":"Multiple et diviseur","description":"Connaître le vocabulaire multiple et diviseur.","tags":["arithmétique","multiple","diviseur"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
 ---
 
 > [!definition] Définition : 

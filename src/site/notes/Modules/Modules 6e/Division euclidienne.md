@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/division-euclidienne/","title":"Division euclidienne","tags":["arithmétique","division"],"dg-note-properties":{"title":"Division euclidienne","description":"Connaître le vocabulaire de la division, savoir poser une division euclidienne.","tags":["arithmétique","division"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/division-euclidienne/","title":"Division euclidienne","hide":true,"tags":["arithmétique","division"],"dg-note-properties":{"title":"Division euclidienne","description":"Connaître le vocabulaire de la division, savoir poser une division euclidienne.","tags":["arithmétique","division"],"theme":"Arithmétique","niveaux":["6e"],"draft":false}}
 ---
 
 >[!definition] Définition :

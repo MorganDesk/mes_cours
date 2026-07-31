@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-une-fraction/","title":"Simplifier une fraction","tags":["simplifier","fraction"],"dg-note-properties":{"title":"Simplifier une fraction","description":"Savoir simplifier une fraction.","tags":["simplifier","fraction"],"theme":"Arithmétique","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/simplifier-une-fraction/","title":"Simplifier une fraction","hide":true,"tags":["simplifier","fraction"],"dg-note-properties":{"title":"Simplifier une fraction","description":"Savoir simplifier une fraction.","tags":["simplifier","fraction"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

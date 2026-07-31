@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/produire-une-expression-litterale/","title":"Produire une expression littérale","tags":["littéral","représenter"],"dg-note-properties":{"title":"Produire une expression littérale","description":"Savoir produire une expression littérale à partir d'un problème.","tags":["littéral","représenter"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/produire-une-expression-litterale/","title":"Produire une expression littérale","hide":true,"tags":["littéral","représenter"],"dg-note-properties":{"title":"Produire une expression littérale","description":"Savoir produire une expression littérale à partir d'un problème.","tags":["littéral","représenter"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!methode] Méthode : Produire une expression littérale

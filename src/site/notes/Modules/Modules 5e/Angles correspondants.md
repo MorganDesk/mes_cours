@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/angles-correspondants/","title":"Angles correspondants","tags":["géométrie","angle","parallèle","correspondant"],"dg-note-properties":{"title":"Angles correspondants","description":"Connaître et savoir utiliser les propriétés des angles correspondants.","tags":["géométrie","angle","parallèle","correspondant"],"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/angles-correspondants/","title":"Angles correspondants","hide":true,"tags":["géométrie","angle","parallèle","correspondant"],"dg-note-properties":{"title":"Angles correspondants","description":"Connaître et savoir utiliser les propriétés des angles correspondants.","tags":["géométrie","angle","parallèle","correspondant"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriétés :

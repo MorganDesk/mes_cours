@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/mise-en-equation-d-un-probleme/","title":"Mise en équation d’un problème","tags":["littéral","équation","résolution","problème"],"dg-note-properties":{"title":"Mise en équation d’un problème","description":"Créer une équation à partir d'un problème.","tags":["littéral","équation","résolution","problème"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/mise-en-equation-d-un-probleme/","title":"Mise en équation d’un problème","hide":true,"tags":["littéral","équation","résolution","problème"],"dg-note-properties":{"title":"Mise en équation d’un problème","description":"Créer une équation à partir d'un problème.","tags":["littéral","équation","résolution","problème"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 >[!exercice] Exercice : ⭐
