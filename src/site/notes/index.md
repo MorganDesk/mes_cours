@@ -18,3 +18,36 @@ Ressources et modules de mathématiques conçus pour le collège, entièrement m
 
 # Les séquences
 [[10 Séquences/5ème/Toutes les séquences de 5ème\|Toutes les séquences de 5ème]]
+
+
+```base
+views:
+  - type: table
+    name: Tableau
+    filters:
+      and:
+        - file.inFolder("Modules")
+        - file.name != "index"
+        - file.ext != "base"
+    order:
+      - file.name
+      - description
+      - theme
+      - niveaux
+      - dg-publish
+      - dg-hide
+    sort:
+      - property: niveaux
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: draft
+        direction: DESC
+    columnSize:
+      file.name: 156
+      note.description: 644
+      note.theme: 146
+      note.niveaux: 107
+
+```
+
