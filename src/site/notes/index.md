@@ -8,7 +8,7 @@ Ressources et modules de mathématiques conçus pour le collège, entièrement m
 
 > 💡 **Astuces de navigation :** 
 > - Sur ordinateur, passez votre curseur sur un lien pour afficher un aperçu de la page. Cliquez sur le lien pour accéder à la page. Site optimisé pour écran large.
-> - Utilisez les liens **Réviser** et **Approfondir** en fin de page pour naviguer entre notions connexes.
+> - Utilisez les liens **Réviser** et **Approfondir** en fin de page de _séquence_ pour naviguer entre notions connexes.
 > ⚠️ Les notions sont en cours de construction, il est possible que certains liens n’aient pas de cible.
 
 # Comment utiliser ce site ?
@@ -19,6 +19,11 @@ Ressources et modules de mathématiques conçus pour le collège, entièrement m
 # Les séquences
 [[10 Séquences/5ème/Toutes les séquences de 5ème\|Toutes les séquences de 5ème]]
 
+# Jeux mathématiques
+Pour s’exercer aux automatismes de calcul et de réflexion : [MorganGames](https://morgangames.vercel.app/)
+
+
+# Tous les modules
 
 ```base
 views:
@@ -51,3 +56,8 @@ views:
 
 ```
 
+
+# Sources
+- Définitions, propriétés : Mathix, LeLivreScolaire et Maths-et-Tiques
+- Figures : Geogebra
+- Utilisation de l’IA pour la correction orthographique.

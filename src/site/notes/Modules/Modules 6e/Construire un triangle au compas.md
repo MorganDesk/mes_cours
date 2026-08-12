@@ -19,7 +19,7 @@
 **Etape 1 :**
 Le plus grand côté est $AB=8cm$.
 La somme des deux autres longueurs est $BC+AC=5cm+6cm=11cm$.
-On a $AB>BC+AC$, donc on peut construire le triangle.
+On a $AB<BC+AC$, donc on peut construire le triangle.
 
 **Etape 2 :**
 ![Construction triangle compas 1.png](/img/user/Images/Construction%20triangle%20compas%201.png)
@@ -35,3 +35,37 @@ On a $AB>BC+AC$, donc on peut construire le triangle.
 ---
 **Etape 6 :**
 ![Construction triangle compas 5.png](/img/user/Images/Construction%20triangle%20compas%205.png)
+
+# Pour t’entrainer :
+
+>[!exercice] Exercice : ⭐
+>Tracer le triangle $RST$ tel que $RS = 7cm$, $ST = 5cm$ et $RT = 4cm$.
+
+>[!exercice] Exercice : ⭐⭐
+>1. Est-il possible de tracer un triangle $DEF$ tel que $DE = 9cm$, $EF = 4cm$ et $DF = 4cm$ ? Justifie ta réponse.
+>2. On considère le triangle $GHI$ tel que $GH = 6cm$, $HI = 6cm$ et $GI = 4,5cm$.
+>	1. Peut-on tracer le triangle $GHI$ ?
+>	2. Trace je triangle $GHI$.
+>	3. Quelle est la nature du triangle $GHI$ ?
+
+>[!exercice]- Correction :
+>1. Vérifions si on peut construire le triangle DEF :
+>Le côté le plus long est $DE=9cm$.
+>La somme des deux autres longueurs est $DF+EF=4cm+4cm=8cm$.
+>On a $DE>DF+EF$ donc on ne peut pas construire le triangle.
+>2. 
+>	1. Vérifions si on peut construire le triangle $GHI$.
+>		Le côté le plus long est $GH=6cm$.
+>		La somme des deux autres longueurs est $GI+HI=4,5cm+6cm=10,5cm$.
+>		On a $GH<GI+HI$ donc on peut construire ce triangle.
+>	2. Construction.
+>	3. Le triangle a deux côtés de même longueur donc c’est un triangle isocèle.
+
+>[!exercice] Exercice : ⭐⭐⭐
+>1. Trace le triangle $ABC$ tel que $AB = 5cm$, $BC = 5cm$ et $AC = 7cm$.
+>2. De l'autre côté du segment $[AC]$, place le point $D$ tel que $AD = 5cm$ et $CD = 5cm$.
+>3. Trace les segments $[AD]$ et $[CD]$ pour fermer le quadrilatère $ABCD$.
+>4. Quelle est la nature du quadrilatère $ABCD$ ?
+
+>[!exercice]- Correction :
+>4. $ABCD$ est un losange.

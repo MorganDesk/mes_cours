@@ -3,7 +3,7 @@
 ---
 
 [[Modules/Modules 6e/Inégalité triangulaire\|Inégalité triangulaire]]
-[[Modules/Modules 5e/Somme des angles dans un triangle\|Somme des angles dans un triangle]]
+[[Modules/Modules 6e/Somme des angles dans un triangle\|Somme des angles dans un triangle]]
 
 [[Modules/Modules 5e/Médiatrices d’un triangle\|Médiatrices d’un triangle]]
 [[Hauteurs d’un triangle\|Hauteurs d’un triangle]]
