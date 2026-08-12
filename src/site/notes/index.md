@@ -2,62 +2,37 @@
 {"dg-publish":true,"permalink":"/index/","title":"Accueil","pinned":true,"tags":["gardenEntry"],"dg-note-properties":{"title":"Accueil","description":"Modules pour apprendre les mathématiques.","draft":false}}
 ---
 
-# Bienvenue sur MorganDesk
+# MorganDesk
+Bienvenue sur **MorganDesk**, l'espace de cours de mathématiques du collège. 
 
-Ressources et modules de mathématiques conçus pour le collège, entièrement mis à jour en accord avec la **réforme des programmes 2026**.
+Les cours sont organisés en **modules simples et connectés** pour réviser et progresser notion par notion, de la 6ᵉ à la 3ᵉ.
+# Séquences
 
-> 💡 **Astuces de navigation :** 
-> - Sur ordinateur, passez votre curseur sur un lien pour afficher un aperçu de la page. Cliquez sur le lien pour accéder à la page. Site optimisé pour écran large.
-> - Utilisez les liens **Réviser** et **Approfondir** en fin de page de _séquence_ pour naviguer entre notions connexes.
-> ⚠️ Les notions sont en cours de construction, il est possible que certains liens n’aient pas de cible.
-
-# Comment utiliser ce site ?
-* **Interconnexion :** Les modules sont indépendants mais liés entre eux pour faire des ponts entre les notions.
-* **Navigation :** Suivez les liens internes pour réviser un rappel ou approfondir un concept.
-* **Entraînement :** Chaque module intègre des liens directs vers des exercices dédiés (en cours de création).
-
-# Les séquences
-[[10 Séquences/5ème/Toutes les séquences de 5ème\|Toutes les séquences de 5ème]]
-
-# Jeux mathématiques
-Pour s’exercer aux automatismes de calcul et de réflexion : [MorganGames](https://morgangames.vercel.app/)
-
-
-# Tous les modules
-
-```base
-views:
-  - type: table
-    name: Tableau
-    filters:
-      and:
-        - file.inFolder("Modules")
-        - file.name != "index"
-        - file.ext != "base"
-    order:
-      - file.name
-      - description
-      - theme
-      - niveaux
-      - dg-publish
-      - dg-hide
-    sort:
-      - property: niveaux
-        direction: ASC
-      - property: file.name
-        direction: ASC
-      - property: draft
-        direction: DESC
-    columnSize:
-      file.name: 156
-      note.description: 644
-      note.theme: 146
-      note.niveaux: 107
-
-```
-
+| Niveau        | Lien vers les séquences                               |
+| ------------- | ----------------------------------------------------- |
+| **Sixième**   | En construction                                       |
+| **Cinquième** | [[10 Séquences/5ème/Toutes les séquences de 5ème\|Liste des séquences]] |
+| **Quatrième** | En construction                                       |
+| **Troisième** | [[10 Séquences/3ème/Toutes les séquences de 3ème\|Liste des séquences]] |
+# Automatismes et jeux
+Entraînez-vous au calcul mental et retravaillez vos réflexes sur **[MorganGames](https://morgangames.vercel.app)**.
 
 # Sources
 - Définitions, propriétés : Mathix, LeLivreScolaire et Maths-et-Tiques
 - Figures : Geogebra
 - Utilisation de l’IA pour la correction orthographique.
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/modules/modules-generaux/expression-numerique/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+>[!definition] Définition :
+>Une **expression numérique** est une chaîne de nombre reliés entre eux par des [[Modules/Modules généraux/Opérateur mathématique\|opérateur mathématiques]].
+
+
+
+</div></div>
+
+
