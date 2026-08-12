@@ -171,35 +171,50 @@ body {
 }
 
 /* ==========================================
-   FORMATAGE DES EMBED
+   FORMATAGE DES EMBEDS (DOCK & DIGITAL GARDEN)
    ========================================== */
-/* 1. Annule les bordures, arrière-plans, marges et rembourrages */
-.markdown-rendered .internal-embed {
+
+/* 1. Supression globale des bordures et pseudo-éléments */
+.internal-embed,
+.transclude,
+div[class*="embed"] {
   border: none !important;
-  background: none !important;
+  border-left: none !important;
+  background: transparent !important;
   padding: 0 !important;
+  padding-left: 0 !important;
   margin: 0 !important;
   box-shadow: none !important;
 }
 
-/* 2. Masque l'icône de lien / bouton d'édition en haut à droite */
-.markdown-rendered .internal-embed .embed-link,
-.markdown-rendered .internal-embed .file-embed-link {
+/* Annule les bordures appliquées via des traits verticaux en pseudo-éléments (::before / ::after) */
+.internal-embed::before,
+.internal-embed::after,
+.transclude::before,
+.transclude::after {
+  display: none !important;
+  content: none !important;
+  border: none !important;
+}
+
+/* 2. Masque les icônes de lien et boutons d'édition */
+.internal-embed .embed-link,
+.internal-embed .file-embed-link,
+.transclude .transclude-header,
+.transclude-link {
   display: none !important;
 }
 
-/* 3. Masque le titre du fichier/note source qui s'affiche en haut de l'embed */
-.markdown-rendered .internal-embed .markdown-embed-title {
+/* 3. Masque le titre du fichier/note source */
+.internal-embed .markdown-embed-title,
+.transclude .transclude-title {
   display: none !important;
 }
 
-/* 4. Supprime l'espace vertical résiduel généré en haut et en bas de l'embed */
-.markdown-rendered .internal-embed .markdown-embed-content {
-  padding: 0 !important;
-  margin: 0 !important;
-}
-
-.markdown-rendered .internal-embed .markdown-preview-view {
+/* 4. Supprime les espacements internes */
+.internal-embed .markdown-embed-content,
+.internal-embed .markdown-preview-view,
+.transclude .transclude-content {
   padding: 0 !important;
   margin: 0 !important;
   min-height: auto !important;
