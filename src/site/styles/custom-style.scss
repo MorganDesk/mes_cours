@@ -170,30 +170,38 @@ body {
     font-size: 1.2em;
 }
 
-    /* Masque complètement l'apparence des embeds dans Digital Garden */
-.internal-embed {
+/* ==========================================
+   FORMATAGE DES EMBED
+   ========================================== */
+/* 1. Annule les bordures, arrière-plans, marges et rembourrages */
+.markdown-rendered .internal-embed {
   border: none !important;
-  background: transparent !important;
+  background: none !important;
   padding: 0 !important;
   margin: 0 !important;
   box-shadow: none !important;
+}
 
-  /* Masque le bouton/lien vers la note source */
-  .embed-link,
-  .file-embed-link {
-    display: none !important;
-  }
+/* 2. Masque l'icône de lien / bouton d'édition en haut à droite */
+.markdown-rendered .internal-embed .embed-link,
+.markdown-rendered .internal-embed .file-embed-link {
+  display: none !important;
+}
 
-  /* Masque le titre de la note incluse s'il apparaît */
-  .markdown-embed-title {
-    display: none !important;
-  }
+/* 3. Masque le titre du fichier/note source qui s'affiche en haut de l'embed */
+.markdown-rendered .internal-embed .markdown-embed-title {
+  display: none !important;
+}
 
-  /* Supprime le rembourrage interne */
-  .markdown-embed-content,
-  .markdown-preview-view {
-    padding: 0 !important;
-    margin: 0 !important;
-  }
+/* 4. Supprime l'espace vertical résiduel généré en haut et en bas de l'embed */
+.markdown-rendered .internal-embed .markdown-embed-content {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.markdown-rendered .internal-embed .markdown-preview-view {
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: auto !important;
 }
 }
