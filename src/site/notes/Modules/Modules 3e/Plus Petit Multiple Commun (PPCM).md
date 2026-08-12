@@ -3,10 +3,10 @@
 ---
 
 # Plus Petit Multiple Commun (PPCM)
-La [[Modules/Modules 5e/Décomposition en produit de facteurs premiers\|décomposition en facteurs premiers]] permet de déterminer facilement le PPCM de deux nombres entiers pour résoudre des problèmes de périodicité.
+La [[Modules/Modules 5e/5e - Décomposition en produit de facteurs premiers\|décomposition en facteurs premiers]] permet de déterminer facilement le PPCM de deux nombres entiers pour résoudre des problèmes de périodicité.
 
 >[!methode] Calculer le PPCM de deux nombres
->Le PPCM de deux nombres est le produit de **tous les [[Modules/Modules 5e/Nombres premiers#^2c3c7f\|facteurs premiers]]** présents dans au moins une des décompositions, élevés à leur **plus grande [[Puissance\|puissance]]**.
+>Le PPCM de deux nombres est le produit de **tous les [[Modules/Modules 5e/5e - Nombres premiers#^2c3c7f\|facteurs premiers]]** présents dans au moins une des décompositions, élevés à leur **plus grande [[Puissance\|puissance]]**.
 
 >[!exemple] Calculer le PPCM de 90 et 120
 >1. On décompose en produit de facteurs premiers les deux nombres :

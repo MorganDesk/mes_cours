@@ -3,6 +3,6 @@
 ---
 
 
-1. [[Modules/Modules 5e/Additionner des nombres relatifs\|Additionner des nombres relatifs]]
-2. [[Modules/Modules 5e/Soustraire des nombres relatifs\|Soustraire des nombres relatifs]]
-3. [[Modules/Modules 5e/Simplifier l'écriture d'une suite d'addition de nombres relatifs\|Simplifier l'écriture d'une suite d'addition de nombres relatifs]]
+1. [[Modules/Modules 5e/5e - Additionner des nombres relatifs\|5e - Additionner des nombres relatifs]]
+2. [[Modules/Modules 5e/5e - Soustraire des nombres relatifs\|5e - Soustraire des nombres relatifs]]
+3. [[Modules/Modules 5e/5e - Simplifier l'écriture d'une suite d'addition de nombres relatifs\|5e - Simplifier l'écriture d'une suite d'addition de nombres relatifs]]

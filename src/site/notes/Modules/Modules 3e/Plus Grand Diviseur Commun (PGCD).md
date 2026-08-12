@@ -3,10 +3,10 @@
 ---
 
 # Plus Grand Diviseur Commun (PGCD)
-La [[Modules/Modules 5e/Décomposition en produit de facteurs premiers\|décomposition en facteurs premiers]] permet de déterminer facilement le PGCD de deux nombres entiers pour résoudre des problèmes de partage.
+La [[Modules/Modules 5e/5e - Décomposition en produit de facteurs premiers\|décomposition en facteurs premiers]] permet de déterminer facilement le PGCD de deux nombres entiers pour résoudre des problèmes de partage.
 
 >[!methode] Calculer le PGCD de deux nombres
->Le PGCD de deux nombres est le produit de tous les **[[Modules/Modules 5e/Nombres premiers#^2c3c7f\|facteurs premiers]] communs** aux deux décompositions, élevés à leur **plus petite [[Puissance\|puissance]]**.
+>Le PGCD de deux nombres est le produit de tous les **[[Modules/Modules 5e/5e - Nombres premiers#^2c3c7f\|facteurs premiers]] communs** aux deux décompositions, élevés à leur **plus petite [[Puissance\|puissance]]**.
 
 >[!exemple] Exemple : PGCD de 90 et 120.
 >1. On décompose en produit de facteurs premiers les deux nombres :

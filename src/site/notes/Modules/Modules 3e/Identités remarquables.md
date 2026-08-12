@@ -12,7 +12,7 @@
 >3. **Différence de deux carrés :**
 >$$(a-b)(a+b)=a^2-b^2$$
 
-Pour les démonstrations suivantes, nous allons utiliser la [[Modules/Modules 4e/Distributivité double\|distributivité double]].
+Pour les démonstrations suivantes, nous allons utiliser la [[Modules/Modules 4e/4e - Distributivité double\|distributivité double]].
 
 >[!demonstration] Démonstration : Carré d’une somme
 >$$\begin{aligned}(a+b)^2&=(a+b)(a+b)\\&=a\times a+a\times b+b\times a + b\times b\\&=a^2+ab+ba+b^2\\&=a^2+2ab+b^2\\\end{aligned}$$

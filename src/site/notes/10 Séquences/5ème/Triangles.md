@@ -5,7 +5,7 @@
 [[Modules/Modules 6e/Inégalité triangulaire\|Inégalité triangulaire]]
 [[Modules/Modules 6e/Somme des angles dans un triangle\|Somme des angles dans un triangle]]
 
-[[Modules/Modules 5e/Médiatrices d’un triangle\|Médiatrices d’un triangle]]
+[[Modules/Modules 5e/5e - Médiatrices d’un triangle\|5e - Médiatrices d’un triangle]]
 [[Hauteurs d’un triangle\|Hauteurs d’un triangle]]
 [[Médianes d’un triangle\|Médianes d’un triangle]]
 [[Bissectrices d’un triangles\|Bissectrices d’un triangles]]

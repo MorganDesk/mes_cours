@@ -2,11 +2,11 @@
 {"dg-publish":true,"dg-path":" Séquences/5ème/Calcul littéral.md","permalink":"/sequences/5eme/calcul-litteral/","title":"Calcul littéral","tags":["littéral","distributivité","égalité","développer","factoriser"],"dg-note-properties":{"title":"Calcul littéral","description":"Tout savoir sur le calcul littéral en 5e","tags":["littéral","distributivité","égalité","développer","factoriser"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
-1. [[Modules/Modules 5e/Expression littérale\|Expression littérale]]
-2. [[Modules/Modules 5e/Simplifier l’écriture d’une expression littérale\|Simplifier l’écriture d’une expression littérale]]
-3. [[Modules/Modules 5e/Calculer la valeur d'une expression littérale\|Calculer la valeur d'une expression littérale]]
-4. [[Modules/Modules 5e/Produire une expression littérale\|Produire une expression littérale]]
-5. [[Modules/Modules 5e/Distributivité simple\|Distributivité simple]]
-6. [[Modules/Modules 5e/Factorisation\|Factorisation]]
-7. [[Modules/Modules 5e/Réduire une expression\|Réduire une expression]]
+1. [[Modules/Modules 5e/5e - Expression littérale\|5e - Expression littérale]]
+2. [[Modules/Modules 5e/5e - Simplifier l’écriture d’une expression littérale\|5e - Simplifier l’écriture d’une expression littérale]]
+3. [[Modules/Modules 5e/5e - Calculer la valeur d'une expression littérale\|5e - Calculer la valeur d'une expression littérale]]
+4. [[Modules/Modules 5e/5e - Produire une expression littérale\|5e - Produire une expression littérale]]
+5. [[Modules/Modules 5e/5e - Distributivité simple\|5e - Distributivité simple]]
+6. [[Modules/Modules 5e/5e - Factoriser\|5e - Factoriser]]
+7. [[Modules/Modules 5e/5e - Réduire une expression littérale\|5e - Réduire une expression littérale]]
 

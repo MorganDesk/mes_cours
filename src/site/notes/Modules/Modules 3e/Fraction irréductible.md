@@ -6,7 +6,7 @@
 >[!definition] Définition :
 >Une **fraction irréductible** est une fraction que l'on ne peux pas simplifier.
 
-La [[Modules/Modules 5e/Décomposition en produit de facteurs premiers\|décomposition en produit de facteurs premiers]] est la meilleure manière de simplifier des expressions numériques ou rendre des fractions irréductibles de façon certaine.
+La [[Modules/Modules 5e/5e - Décomposition en produit de facteurs premiers\|décomposition en produit de facteurs premiers]] est la meilleure manière de simplifier des expressions numériques ou rendre des fractions irréductibles de façon certaine.
 
 >[!exemple] Exemple :
 >Rendre irréductible la fraction $\frac{135}{63}$ :

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":" Séquences/3ème/Toutes les séquences de 3ème.md","permalink":"/sequences/3eme/toutes-les-sequences-de-3eme/","title":"Toutes les séquences de 3ème","dg-note-properties":{"title":"Toutes les séquences de 3ème","description":"Toutes les séquences de 3ème","tags":null,"theme":null,"niveaux":["3e"]}}
 ---
 
-[[Calcul littéral (1)\|Calcul littéral (1)]]
+[[10 Séquences/3ème/Calcul littéral (1)\|Calcul littéral (1)]]
 [[Trigonométrie\|Trigonométrie]]
 [[Notion de fonctions\|Notion de fonctions]]
 [[Probabilités\|Probabilités]]

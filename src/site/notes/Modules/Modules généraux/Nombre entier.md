@@ -3,5 +3,5 @@
 ---
 
 >[!definition] Définition :
->L’ensemble des **nombres entiers** comprend les [[Modules/Modules généraux/Nombre entier naturel\|nombres entiers naturels]] ainsi que les [[Modules/Modules 5e/Notion de nombre relatif#^aae20e\|nombres entiers relatifs]].
+>L’ensemble des **nombres entiers** comprend les [[Modules/Modules généraux/Nombre entier naturel\|nombres entiers naturels]] ainsi que les [[Modules/Modules 5e/5e - Notion de nombre relatif#^aae20e\|nombres entiers relatifs]].
 
