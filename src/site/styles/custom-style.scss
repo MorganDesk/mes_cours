@@ -169,4 +169,31 @@ body {
     left: 8px;
     font-size: 1.2em;
 }
+
+    /* Masque complètement l'apparence des embeds dans Digital Garden */
+.internal-embed {
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+
+  /* Masque le bouton/lien vers la note source */
+  .embed-link,
+  .file-embed-link {
+    display: none !important;
+  }
+
+  /* Masque le titre de la note incluse s'il apparaît */
+  .markdown-embed-title {
+    display: none !important;
+  }
+
+  /* Supprime le rembourrage interne */
+  .markdown-embed-content,
+  .markdown-preview-view {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
 }
