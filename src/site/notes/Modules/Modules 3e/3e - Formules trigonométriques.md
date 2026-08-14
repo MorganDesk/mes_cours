@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-formules-trigonometriques/","title":"3e - Formules trigonométriques","dg-note-properties":{"title":"3e - Formules trigonométriques","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-formules-trigonometriques/","title":"Formules trigonométriques","dg-note-properties":{"title":"Formules trigonométriques","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Formules trigonométriques

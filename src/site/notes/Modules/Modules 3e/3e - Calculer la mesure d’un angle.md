@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-mesure-d-un-angle/","title":"3e - Calculer la mesure d’un angle","dg-note-properties":{"title":"3e - Calculer la mesure d’un angle","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-mesure-d-un-angle/","title":"Calculer la mesure d’un angle","dg-note-properties":{"title":"Calculer la mesure d’un angle","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Calculer la mesure d’un angle
