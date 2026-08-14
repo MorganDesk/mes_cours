@@ -4,12 +4,12 @@
 
 # Fonctions affines
 >[!definition] Définition :
->Une **[[Modules/Modules 3e/Concept de fonction#^9d7bb3\|fonction]] affine** est une fonction définie par une formule de la forme : $$f(x)=ax+b \text{ ou } f:x\mapsto ax+b$$
+>Une **[[Concept de fonction#^9d7bb3\|fonction]] affine** est une fonction définie par une formule de la forme : $$f(x)=ax+b \text{ ou } f:x\mapsto ax+b$$
 >- *a* est le **coefficient directeur** («la pente»).
 >- *b* est l’**ordonnée à l’origine** (le point d’intersection de la droite avec l’axe des ordonnées).
 
 >[!propriete] Propriétés :
->- La [[Modules/Modules 3e/Représentations d'une fonction#3. Représentation graphique\|représentation graphique]] d’une fonction affine est **une droite**.
+>- La [[Modules/Modules 3e/3e - Représentations d'une fonction#3. Représentation graphique\|représentation graphique]] d’une fonction affine est **une droite**.
 >- Pour tracer la droite représentative de $f(x)=ax+b$ :
 >	1. On place le point de coordonnées $(0;b)$ (l’ordonnée à l’origine).
 >	2. On calcule les coordonnées d’un deuxième point en choisissant une valeur de *x* et on place ce point.

@@ -17,6 +17,9 @@
 >Développer $A=(2x+3)(4x+1)$
 >$$\begin{aligned}A&=2x \times 4x+2x\times 1+3 \times 4x+3 \times 1\\&=8x^2+2x+12x+3\\&=8x^2+14x+3\end{aligned}$$
 
+>[!remarque] Remarque :
+>Effectuer une distributivité double revient à faire deux distributivités simples.
+
 >[!remarque] Astuce :
 >Quand il y a des soustractions, on peut transformer les soustractions en addition de l’opposé pour éviter les erreurs de signe.
 >$$\begin{aligned}B&=(5x-3)(2x+1)\\&=(5x+(-3))(2x+1)\\&=5x \times 2x+5x \times 1+(-3) \times (2x)+(-3) \times 1\\&=10x^2+5x-6x-3\\&=10x^2-x-3\end{aligned}$$

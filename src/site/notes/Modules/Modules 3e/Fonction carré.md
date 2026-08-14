@@ -5,10 +5,10 @@
 # Fonction carré
 
 >[!definition] Définition :
->La **[[Modules/Modules 3e/Concept de fonction#^9d7bb3\|fonction]] carré** est la fonction définie sur les nombres réels par : $$f(x)=x^2 \text{ ou } f:x\mapsto x^2$$
+>La **[[Concept de fonction#^9d7bb3\|fonction]] carré** est la fonction définie sur les nombres réels par : $$f(x)=x^2 \text{ ou } f:x\mapsto x^2$$
 
 >[!propriete] Propriété graphique :
->La [[Modules/Modules 3e/Représentations d'une fonction#3. Représentation graphique\|représentation graphique]] de la fonction carré est une courbe symétrique appelée **parabole** de sommet l’origine du repère $(0;0)$.
+>La [[Modules/Modules 3e/3e - Représentations d'une fonction#3. Représentation graphique\|représentation graphique]] de la fonction carré est une courbe symétrique appelée **parabole** de sommet l’origine du repère $(0;0)$.
 >
 
 **Tableau de valeurs de la fonction carré** :
