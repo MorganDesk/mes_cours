@@ -24,6 +24,36 @@
 
 
 >[!exemple] Exemple :
->Factoriser $D=6x^2 -3x$. Le facteur commun est $3x$.
->$$\begin{aligned}D&=3x \times 2x - 3x \times (-1)\\&=3x(2x-1)\end{aligned}$$
+>Factoriser $D=3x(x-2)-(x-2)\times 7$. Le facteur commun est $(x-2)$.
+>$$\begin{aligned}D&=3x \times (x-2) - (x-2) \times 7\\&=(x-2)(3x-7)\end{aligned}$$
+
+>[!exercice]- Exercice : ⭐⭐
+>Factorisez complètement les expressions suivantes en identifiant le facteur commun dans chaque cas.
+>1. $4y−8$
+>2. $5x^2−10x$
+>3. $3a(x+2)+7b(x+2)$
+
+>[!exercice]- Correction
+>1. Le facteur commun est $4$.
+>$4\times y−4\times 2=4(y-2)$
+>2. Le facteur commun est $5x$.
+>$5x\times x−5x\times 2=5x(x−2)$
+>3. Le facteur commun est $(x+2)$.
+>$(x+2)\times 3a + (x+2) \times 7b=(x+2)(3a+7b)$
+
+>[!exercice]- Exercice : ⭐⭐⭐
+>Factorisez complètement les expressions suivantes.
+>1. $G=x(x−5)+3(x−5)$
+>2. $H=(2y+1)(a−3)−(y−2)(a−3)$
+>3. $I=7(x^2+x)+(x^2+x)$
+
+>[!exercice] Correction :
+>1. Le facteur commun est $(x-5)$.
+>$$\begin{aligned} G &= (x-5)\times x + (x-5)\times 3\\ &= (x-5)(x+3) \end{aligned}$$ 
+>2. Le facteur commun est $(a-3)$.
+>$$H = (a-3)(2y+1)-(a-3)(y-2)$$
+>*(Attention aux signes lors du passage de $- (y-2)$ à $+(-y+2)$)* 
+>$$\begin{aligned} H &= [2y + 1 - y + 2](a-3) \\ &= (y+3)(a-3) \end{aligned}$$ 
+>3. Le facteur commun est $(x^2+x)$.
+>$$\begin{aligned} J &= 7\times (x^2+x)+(x^2+x)\times 1\\&=(x^2+x)(7+1) \\ &= 8(x^2+x) \end{aligned}$$
 

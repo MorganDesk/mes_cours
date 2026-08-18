@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-tableau-de-valeur-d-une-fonction/","title":"Tableau de valeur d’une fonction","dg-note-properties":{"title":"Tableau de valeur d’une fonction","description":null,"tags":null,"theme":null,"niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-tableau-de-valeur-d-une-fonction/","title":"Tableau de valeur d’une fonction","dg-note-properties":{"title":"Tableau de valeur d’une fonction","description":null,"tags":null,"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Tableau de valeur d’une fonction

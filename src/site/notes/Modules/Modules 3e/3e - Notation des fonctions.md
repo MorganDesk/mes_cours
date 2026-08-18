@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-notation-des-fonctions/","title":"Notation des fonctions","dg-note-properties":{"title":"Notation des fonctions","description":null,"tags":null,"theme":null,"niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-notation-des-fonctions/","title":"Notation des fonctions","dg-note-properties":{"title":"Notation des fonctions","description":null,"tags":null,"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Notation des fonctions

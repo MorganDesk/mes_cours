@@ -4,12 +4,16 @@
 
 # Probabilités
 ## Expérience aléatoire
-[[3e - Expérience aléatoire\|3e - Expérience aléatoire]]
+[[Modules/Modules 3e/3e - Expérience aléatoire\|3e - Expérience aléatoire]]
 
 ## Notion de probabilité
-[[3e - Notion de probabilité\|3e - Notion de probabilité]]
-[[3e - Calculer une probabilité\|3e - Calculer une probabilité]]
+[[Modules/Modules 3e/3e - Notion de probabilité\|3e - Notion de probabilité]]
+[[Modules/Modules 3e/3e - Calculer la probabilité d'un événement simple\|3e - Calculer la probabilité d'un événement simple]]
+[[Modules/Modules 3e/3e - Calculer la probabilité d’un événement composé\|3e - Calculer la probabilité d’un événement composé]]
+[[Modules/Modules 3e/3e - Evénement contraire\|3e - Evénement contraire]]
 
 ## Lien entre probabilité et fréquence
+[[Modules/Modules 3e/3e - Lien entre probabilité et fréquence\|3e - Lien entre probabilité et fréquence]]
 
 ## Expérience aléatoire à deux épreuves
+[[Modules/Modules 3e/3e - Expérience aléatoire à deux épreuves\|3e - Expérience aléatoire à deux épreuves]]
