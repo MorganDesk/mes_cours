@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-priorite-operatoire-avec-des-puissances/","title":"Priorité opératoire avec des puissances","tags":["expression","calculer","puissance","exposant","priorité"],"dg-note-properties":{"title":"Priorité opératoire avec des puissances","description":"Savoir calculer une expression contenant une ou plusieurs puissances en respectant la priorité opératoire.","tags":["expression","calculer","puissance","exposant","priorité"],"theme":"Arithmétique","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-priorite-operatoire-avec-des-puissances/","title":"Priorité opératoire avec des puissances","tags":["expression","calculer","puissance","exposant","priorité"],"dg-note-properties":{"title":"Priorité opératoire avec des puissances","tags":["expression","calculer","puissance","exposant","priorité"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

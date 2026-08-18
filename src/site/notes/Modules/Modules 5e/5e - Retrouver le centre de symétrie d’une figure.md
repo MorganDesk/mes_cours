@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-retrouver-le-centre-de-symetrie-d-une-figure/","title":"Retrouver le centre de symétrie d’une figure","dg-note-properties":{"title":"Retrouver le centre de symétrie d’une figure","description":null,"tags":null,"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-retrouver-le-centre-de-symetrie-d-une-figure/","title":"Retrouver le centre de symétrie d’une figure","tags":["géométrie","symétrie"],"dg-note-properties":{"title":"Retrouver le centre de symétrie d’une figure","tags":["géométrie","symétrie"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 >[!definition] Définition :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-developper/","title":"Développer","dg-note-properties":{"title":"Développer","description":null,"tags":null,"theme":"Calcul littéral","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-developper/","title":"Développer","tags":["littéral","distributivité"],"dg-note-properties":{"title":"Développer","tags":["littéral","distributivité"],"theme":"Calcul littéral","niveaux":["3e"]}}
 ---
 
 

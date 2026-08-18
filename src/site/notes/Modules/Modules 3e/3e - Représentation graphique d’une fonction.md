@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-representation-graphique-d-une-fonction/","title":"Représentation graphique d’une fonction","dg-note-properties":{"title":"Représentation graphique d’une fonction","description":null,"tags":null,"theme":"Fonctions","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-representation-graphique-d-une-fonction/","title":"Représentation graphique d’une fonction","tags":["fonction","représentation"],"dg-note-properties":{"title":"Représentation graphique d’une fonction","tags":["fonction","représentation"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Représentation graphique d’une fonction

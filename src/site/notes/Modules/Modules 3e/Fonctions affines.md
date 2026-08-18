@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/fonctions-affines/","title":"Fonctions affines","hide":true,"tags":["fonction","affine","droite"],"dg-note-properties":{"title":"Fonctions affines","description":"Connaître les fonctions affines, tracer et utiliser leurs représentations.","tags":["fonction","affine","droite"],"theme":"Fonctions","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/fonctions-affines/","title":"Fonctions affines","hide":true,"tags":["fonction","affine","droite"],"dg-note-properties":{"title":"Fonctions affines","tags":["fonction","affine","droite"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Fonctions affines

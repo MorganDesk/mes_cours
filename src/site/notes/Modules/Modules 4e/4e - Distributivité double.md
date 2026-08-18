@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-4e/4e-distributivite-double/","title":"Distributivité double","hide":true,"tags":["distributivité","développer"],"dg-note-properties":{"title":"Distributivité double","description":"Connaître et savoir utiliser la distributivité double.","tags":["distributivité","développer"],"theme":"Calcul littéral","niveaux":["4e"],"draft":false}}
+{"dg-publish":true,"permalink":"/modules/modules-4e/4e-distributivite-double/","title":"Distributivité double","hide":true,"tags":["distributivité","développer"],"dg-note-properties":{"title":"Distributivité double","tags":["distributivité","développer"],"theme":"Calcul littéral","niveaux":["4e"]}}
 ---
 
 # Distributivité double

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-notion-de-probabilite/","title":"Notion de probabilité","dg-note-properties":{"title":"Notion de probabilité","description":null,"tags":null,"theme":"Gestion de données","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-notion-de-probabilite/","title":"Notion de probabilité","tags":["probabilité"],"dg-note-properties":{"title":"Notion de probabilité","tags":["probabilité"],"theme":"Gestion de données","niveaux":["3e"]}}
 ---
 
 # Notion de probabilité

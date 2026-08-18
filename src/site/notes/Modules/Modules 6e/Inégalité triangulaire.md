@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/inegalite-triangulaire/","title":"Inégalité triangulaire","tags":["inégalité","triangulaire","géométrie"],"dg-note-properties":{"title":"Inégalité triangulaire","description":"Connaître et savoir appliquer l'inégalité triangulaire.","tags":["inégalité","triangulaire","géométrie"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/inegalite-triangulaire/","title":"Inégalité triangulaire","tags":["inégalité","triangulaire","géométrie"],"dg-note-properties":{"title":"Inégalité triangulaire","tags":["inégalité","triangulaire","géométrie"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriété :

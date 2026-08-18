@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/construire-un-triangle-au-compas/","title":"Construire un triangle au compas","tags":["triangle","géométrie","tracer"],"dg-note-properties":{"title":"Construire un triangle au compas","description":"Savoir construire un triangle dont on connait les trois longueurs.","tags":["triangle","géométrie","tracer"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/construire-un-triangle-au-compas/","title":"Construire un triangle au compas","tags":["triangle","géométrie","tracer"],"dg-note-properties":{"title":"Construire un triangle au compas","tags":["triangle","géométrie","tracer"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriété :

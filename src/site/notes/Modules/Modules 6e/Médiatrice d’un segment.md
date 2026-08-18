@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/mediatrice-d-un-segment/","title":"Tracer la médiatrice d’un segment","tags":["géométrie","tracer","médiatrice"],"dg-note-properties":{"title":"Tracer la médiatrice d’un segment","description":"Tracer la médiatrice d'un segment.","tags":["géométrie","tracer","médiatrice"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/mediatrice-d-un-segment/","title":"Tracer la médiatrice d’un segment","tags":["géométrie","tracer","médiatrice"],"dg-note-properties":{"title":"Tracer la médiatrice d’un segment","tags":["géométrie","tracer","médiatrice"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!definition] Définition :

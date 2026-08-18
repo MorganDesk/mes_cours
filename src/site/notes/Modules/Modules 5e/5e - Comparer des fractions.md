@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-comparer-des-fractions/","title":"Comparer des fractions","tags":["comparer","fraction"],"dg-note-properties":{"tags":["comparer","fraction"],"niveaux":["5e"],"title":"Comparer des fractions","description":"Savoir comparer des fractions avec ou sans droite graduée.","theme":"Arithmétique"}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-comparer-des-fractions/","title":"Comparer des fractions","tags":["comparer","fraction"],"dg-note-properties":{"tags":["comparer","fraction"],"niveaux":["5e"],"title":"Comparer des fractions","theme":"Arithmétique"}}
 ---
 
 >[!propriete] Propriété :

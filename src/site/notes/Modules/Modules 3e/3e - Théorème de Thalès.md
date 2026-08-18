@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-theoreme-de-thales/","title":"Théorème de Thalès","dg-note-properties":{"title":"Théorème de Thalès","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-theoreme-de-thales/","title":"Théorème de Thalès","tags":["géométrie","thalès"],"dg-note-properties":{"title":"Théorème de Thalès","tags":["géométrie","thalès"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Théorème de Thalès

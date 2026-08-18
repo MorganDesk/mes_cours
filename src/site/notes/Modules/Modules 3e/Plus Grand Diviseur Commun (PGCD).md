@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/plus-grand-diviseur-commun-pgcd/","title":"Plus Grand Diviseur Commun (PGCD)","hide":true,"tags":["arithmétique","PGCD"],"dg-note-properties":{"title":"Plus Grand Diviseur Commun (PGCD)","description":"Savoir calculer le PGCD de deux nombres et résoudre des problèmes de partage.","tags":["arithmétique","PGCD"],"theme":"Arithmétique","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/plus-grand-diviseur-commun-pgcd/","title":"Plus Grand Diviseur Commun (PGCD)","hide":true,"tags":["arithmétique","PGCD"],"dg-note-properties":{"title":"Plus Grand Diviseur Commun (PGCD)","tags":["arithmétique","PGCD"],"theme":"Arithmétique","niveaux":["3e"]}}
 ---
 
 # Plus Grand Diviseur Commun (PGCD)

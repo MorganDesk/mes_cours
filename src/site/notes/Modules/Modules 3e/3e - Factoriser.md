@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-factoriser/","title":"Factoriser","dg-note-properties":{"title":"Factoriser","description":null,"tags":null,"theme":"Calcul littéral","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-factoriser/","title":"Factoriser","tags":["littéral","factoriser"],"dg-note-properties":{"title":"Factoriser","tags":["littéral","factoriser"],"theme":"Calcul littéral","niveaux":["3e"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-representations-d-une-fonction/","title":"Représentations d'une fonction","tags":["fonction","représentation","image","antécédant","graphique","tableau"],"dg-note-properties":{"title":"Représentations d'une fonction","description":"Savoir représenter une fonction et utiliser les représentations d'une fonction.","tags":["fonction","représentation","image","antécédant","graphique","tableau"],"draft":true,"theme":"Fonctions","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-representations-d-une-fonction/","title":"Représentations d'une fonction","tags":["fonction","représentation","image","antécédant","graphique","tableau"],"dg-note-properties":{"title":"Représentations d'une fonction","tags":["fonction","représentation","image","antécédant","graphique","tableau"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Représentations d'une fonction

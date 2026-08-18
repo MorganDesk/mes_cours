@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-probabilite-d-un-evenement-simple/","title":"Calculer la probabilité d'un événement simple","dg-note-properties":{"title":"Calculer la probabilité d'un événement simple","description":null,"tags":null,"theme":"Gestion de données","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-probabilite-d-un-evenement-simple/","title":"Calculer la probabilité d'un événement simple","tags":["probabilité"],"dg-note-properties":{"title":"Calculer la probabilité d'un événement simple","tags":["probabilité"],"theme":"Gestion de données","niveaux":["3e"]}}
 ---
 
 # Calculer la probabilité d'un événement simple

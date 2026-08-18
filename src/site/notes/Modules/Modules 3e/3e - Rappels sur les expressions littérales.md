@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-rappels-sur-les-expressions-litterales/","title":"Rappels sur les expressions littérales","dg-note-properties":{"title":"Rappels sur les expressions littérales","description":null,"tags":null,"theme":"Calcul littéral","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-rappels-sur-les-expressions-litterales/","title":"Rappels sur les expressions littérales","tags":["littéral","simplifier","réduire"],"dg-note-properties":{"title":"Rappels sur les expressions littérales","tags":["littéral","simplifier","réduire"],"theme":"Calcul littéral","niveaux":["3e"]}}
 ---
 
 

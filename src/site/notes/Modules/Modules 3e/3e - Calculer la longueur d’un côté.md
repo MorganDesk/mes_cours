@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-longueur-d-un-cote/","title":"Calculer la longueur d’un côté","dg-note-properties":{"title":"Calculer la longueur d’un côté","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-longueur-d-un-cote/","title":"Calculer la longueur d’un côté","tags":["géométrie","trigonométrie"],"dg-note-properties":{"title":"Calculer la longueur d’un côté","tags":["géométrie","trigonométrie"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Calculer la longueur d’un côté

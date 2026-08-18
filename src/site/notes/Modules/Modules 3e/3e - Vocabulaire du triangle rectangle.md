@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-vocabulaire-du-triangle-rectangle/","title":"3e - Vocabulaire du triangle rectangle","dg-note-properties":{"title":"3e - Vocabulaire du triangle rectangle","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-vocabulaire-du-triangle-rectangle/","title":"Vocabulaire du triangle rectangle","tags":["triangle","géométrie"],"dg-note-properties":{"title":"Vocabulaire du triangle rectangle","tags":["triangle","géométrie"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Vocabulaire du triangle rectangle

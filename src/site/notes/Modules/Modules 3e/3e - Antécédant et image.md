@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-antecedant-et-image/","title":"Antécédant et image","tags":["fonction","image","antécédant"],"dg-note-properties":{"title":"Antécédant et image","description":"Antécédant et image d'un nombre par une fonction.","tags":["fonction","image","antécédant"],"theme":"Fonctions","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-antecedant-et-image/","title":"Antécédant et image","tags":["fonction","image","antécédant"],"dg-note-properties":{"title":"Antécédant et image","tags":["fonction","image","antécédant"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Antécédant et image

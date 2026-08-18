@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-repere-orthogonal/","title":"Repère orthogonal","tags":["repérage","relatif"],"dg-note-properties":{"title":"Repère orthogonal","description":"Savoir lire les coordonnées et placer des points dans un repère orthogonal.","tags":["repérage","relatif"],"theme":null,"niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-repere-orthogonal/","title":"Repère orthogonal","tags":["repérage","relatif"],"dg-note-properties":{"title":"Repère orthogonal","tags":["repérage","relatif"],"theme":null,"niveaux":["5e"]}}
 ---
 
 >[!definition] Définitions :

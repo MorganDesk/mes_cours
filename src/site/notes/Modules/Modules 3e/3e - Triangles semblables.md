@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-triangles-semblables/","title":"Triangles semblables","dg-note-properties":{"title":"Triangles semblables","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-triangles-semblables/","title":"Triangles semblables","tags":["triangle","géométrie","thalès"],"dg-note-properties":{"title":"Triangles semblables","tags":["triangle","géométrie","thalès"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Triangles semblables

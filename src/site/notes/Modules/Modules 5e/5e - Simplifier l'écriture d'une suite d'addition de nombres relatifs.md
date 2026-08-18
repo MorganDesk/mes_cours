@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-simplifier-l-ecriture-d-une-suite-d-addition-de-nombres-relatifs/","title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","tags":["simplifier","somme","relatif"],"dg-note-properties":{"title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","description":"Savoir simplifier l'écriture d'une d'une expression contenant des nombres relatifs.","tags":["simplifier","somme","relatif"],"theme":"Arithmétique","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-simplifier-l-ecriture-d-une-suite-d-addition-de-nombres-relatifs/","title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","tags":["simplifier","somme","relatif"],"dg-note-properties":{"title":"Simplifier l'écriture d'une suite d'addition de nombres relatifs","tags":["simplifier","somme","relatif"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-reciproque-du-theoreme-de-thales/","title":"Réciproque du théorème de Thalès","dg-note-properties":{"title":"Réciproque du théorème de Thalès","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-reciproque-du-theoreme-de-thales/","title":"Réciproque du théorème de Thalès","tags":["géométrie","thalès","parallèle"],"dg-note-properties":{"title":"Réciproque du théorème de Thalès","tags":["géométrie","thalès","parallèle"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Réciproque du théorème de Thalès

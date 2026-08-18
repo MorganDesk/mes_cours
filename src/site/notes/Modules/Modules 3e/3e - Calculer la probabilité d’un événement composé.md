@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-probabilite-d-un-evenement-compose/","title":"Calculer la probabilité d’un événement composé","dg-note-properties":{"title":"Calculer la probabilité d’un événement composé","description":null,"tags":null,"theme":"Gestion de données","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-calculer-la-probabilite-d-un-evenement-compose/","title":"Calculer la probabilité d’un événement composé","tags":["probabilité"],"dg-note-properties":{"title":"Calculer la probabilité d’un événement composé","tags":["probabilité"],"theme":"Gestion de données","niveaux":["3e"]}}
 ---
 
 # Calculer la probabilité d’un événement composé

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-reduire-une-expression-litterale/","title":"Réduire une expression littérale","tags":["réduire","littéral"],"dg-note-properties":{"title":"Réduire une expression littérale","description":"Réduire une expression littérale.","tags":["réduire","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-reduire-une-expression-litterale/","title":"Réduire une expression littérale","tags":["réduire","littéral"],"dg-note-properties":{"title":"Réduire une expression littérale","tags":["réduire","littéral"],"theme":"Calcul littéral","niveaux":["5e"]}}
 ---
 
 # Réduire une expression littérale

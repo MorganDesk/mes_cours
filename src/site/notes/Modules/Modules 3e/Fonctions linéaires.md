@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/fonctions-lineaires/","title":"Fonctions linéaires","hide":true,"tags":["fonction","proportionnalité","linéaire"],"dg-note-properties":{"title":"Fonctions linéaires","description":"Connaître les fonctions linéaires, tracer et utiliser leurs représentations.","tags":["fonction","proportionnalité","linéaire"],"theme":"Fonctions","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/fonctions-lineaires/","title":"Fonctions linéaires","hide":true,"tags":["fonction","proportionnalité","linéaire"],"dg-note-properties":{"title":"Fonctions linéaires","tags":["fonction","proportionnalité","linéaire"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Fonctions linéaires

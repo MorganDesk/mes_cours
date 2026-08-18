@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-tracer-le-symetrique-d-une-figure/","title":"Tracer le symétrique d’une figure","tags":["géométrie","symétrie","tracer"],"dg-note-properties":{"title":"Tracer le symétrique d’une figure","description":"Savoir tracer le symétrique d'une figure par rapport à un point","tags":["géométrie","symétrie","tracer"],"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-tracer-le-symetrique-d-une-figure/","title":"Tracer le symétrique d’une figure","tags":["géométrie","symétrie","tracer"],"dg-note-properties":{"title":"Tracer le symétrique d’une figure","tags":["géométrie","symétrie","tracer"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-determiner-l-equation-d-une-droite/","title":"Déterminer l’équation d’une droite","tags":["fonction","équation","droite"],"dg-note-properties":{"title":"Déterminer l’équation d’une droite","description":"Savoir déterminer graphiquement et par le calcul l'équation d'une droite.","tags":["fonction","équation","droite"],"theme":"Fonctions","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-determiner-l-equation-d-une-droite/","title":"Déterminer l’équation d’une droite","tags":["fonction","équation","droite"],"dg-note-properties":{"title":"Déterminer l’équation d’une droite","tags":["fonction","équation","droite"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Déterminer l’équation d’une droite

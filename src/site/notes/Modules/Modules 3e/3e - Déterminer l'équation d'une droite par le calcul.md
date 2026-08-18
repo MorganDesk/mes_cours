@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-determiner-l-equation-d-une-droite-par-le-calcul/","title":"Déterminer l'équation d'une droite par le calcul","dg-note-properties":{"title":"Déterminer l'équation d'une droite par le calcul","description":null,"tags":null,"theme":"Fonctions","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-determiner-l-equation-d-une-droite-par-le-calcul/","title":"Déterminer l'équation d'une droite par le calcul","tags":["fonction","équation","droite"],"dg-note-properties":{"title":"Déterminer l'équation d'une droite par le calcul","tags":["fonction","équation","droite"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Déterminer l'équation d'une droite par le calcul

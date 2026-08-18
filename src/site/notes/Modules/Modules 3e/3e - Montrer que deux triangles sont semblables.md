@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-montrer-que-deux-triangles-sont-semblables/","title":"Montrer que deux triangles sont semblables","dg-note-properties":{"title":"Montrer que deux triangles sont semblables","description":null,"tags":null,"theme":"Géométrie","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-montrer-que-deux-triangles-sont-semblables/","title":"Montrer que deux triangles sont semblables","tags":["géométrie","triangle","semblable","thalès"],"dg-note-properties":{"title":"Montrer que deux triangles sont semblables","tags":["géométrie","triangle","semblable","thalès"],"theme":"Géométrie","niveaux":["3e"]}}
 ---
 
 # Montrer que deux triangles sont semblables

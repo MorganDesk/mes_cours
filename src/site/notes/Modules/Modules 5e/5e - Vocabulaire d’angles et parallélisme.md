@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-vocabulaire-d-angles-et-parallelisme/","title":"Vocabulaire d’angles et parallélisme","tags":["géométrie","parallèle","vocabulaire","angle"],"dg-note-properties":{"title":"Vocabulaire d’angles et parallélisme","description":"Connaître le vocabulaire lié aux angles.","tags":["géométrie","parallèle","vocabulaire","angle"],"theme":"Géométrie","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-vocabulaire-d-angles-et-parallelisme/","title":"Vocabulaire d’angles et parallélisme","tags":["géométrie","parallèle","vocabulaire","angle"],"dg-note-properties":{"title":"Vocabulaire d’angles et parallélisme","tags":["géométrie","parallèle","vocabulaire","angle"],"theme":"Géométrie","niveaux":["5e"]}}
 ---
 
 On considère deux droites $(d)$ et $(d’)$ et une troisième droite $(\Delta)$.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/fonction-carre/","title":"Fonction carré","hide":true,"tags":["fonction","carré","représentation"],"dg-note-properties":{"title":"Fonction carré","description":"Connaître la représentation de la fonction carré, tracer sa représentation.","tags":["fonction","carré","représentation"],"theme":"Fonctions","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/fonction-carre/","title":"Fonction carré","hide":true,"tags":["fonction","carré","représentation"],"dg-note-properties":{"title":"Fonction carré","tags":["fonction","carré","représentation"],"theme":"Fonctions","niveaux":["3e"]}}
 ---
 
 # Fonction carré

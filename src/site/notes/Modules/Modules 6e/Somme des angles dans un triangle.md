@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/somme-des-angles-dans-un-triangle/","title":"Somme des angles dans un triangle","tags":["angle","géométrie","triangle"],"dg-note-properties":{"title":"Somme des angles dans un triangle","description":"Savoir calculer la mesure d'un angle dans un triangle.","tags":["angle","géométrie","triangle"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/somme-des-angles-dans-un-triangle/","title":"Somme des angles dans un triangle","tags":["angle","géométrie","triangle"],"dg-note-properties":{"title":"Somme des angles dans un triangle","tags":["angle","géométrie","triangle"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriété :

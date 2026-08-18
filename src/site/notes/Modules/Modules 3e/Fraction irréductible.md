@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/fraction-irreductible/","title":"Fraction irréductible","hide":true,"tags":["arithmétique","simplification","fraction"],"dg-note-properties":{"title":"Fraction irréductible","description":"Utiliser la décomposition en produit de facteurs premiers pour simplifier une fraction.","tags":["arithmétique","simplification","fraction"],"theme":"Arithmétique","draft":true,"niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/fraction-irreductible/","title":"Fraction irréductible","hide":true,"tags":["arithmétique","simplification","fraction"],"dg-note-properties":{"title":"Fraction irréductible","tags":["arithmétique","simplification","fraction"],"theme":"Arithmétique","niveaux":["3e"]}}
 ---
 
 # Fraction irréductible

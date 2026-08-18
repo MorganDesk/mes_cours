@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/plus-petit-multiple-commun-ppcm/","title":"Plus Petit Multiple Commun (PPCM)","hide":true,"tags":["arithmétique","PPCM"],"dg-note-properties":{"title":"Plus Petit Multiple Commun (PPCM)","description":"Savoir calculer le PPCM de deux nombres et résoudre des problèmes de périodicité.","tags":["arithmétique","PPCM"],"theme":"Arithmétique","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/plus-petit-multiple-commun-ppcm/","title":"Plus Petit Multiple Commun (PPCM)","hide":true,"tags":["arithmétique","PPCM"],"dg-note-properties":{"title":"Plus Petit Multiple Commun (PPCM)","tags":["arithmétique","PPCM"],"theme":"Arithmétique","niveaux":["3e"]}}
 ---
 
 # Plus Petit Multiple Commun (PPCM)

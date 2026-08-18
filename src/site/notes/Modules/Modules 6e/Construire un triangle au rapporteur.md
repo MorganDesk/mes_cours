@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-6e/construire-un-triangle-au-rapporteur/","title":"Construire un triangle au rapporteur","tags":["géométrie","tracer","triangle","rapporteur"],"dg-note-properties":{"title":"Construire un triangle au rapporteur","description":"Savoir construire un triangle dont on connait un ou plusieurs angles.","tags":["géométrie","tracer","triangle","rapporteur"],"theme":"Géométrie","niveaux":["6e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-6e/construire-un-triangle-au-rapporteur/","title":"Construire un triangle au rapporteur","tags":["géométrie","tracer","triangle","rapporteur"],"dg-note-properties":{"title":"Construire un triangle au rapporteur","tags":["géométrie","tracer","triangle","rapporteur"],"theme":"Géométrie","niveaux":["6e"]}}
 ---
 
 >[!propriete] Propriété :

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/diviseurs-communs/","title":"Diviseurs communs","hide":true,"tags":["arithmétique","diviseur"],"dg-note-properties":{"title":"Diviseurs communs","description":"Savoir trouver tous les diviseurs communs à deux nombres entiers.","tags":["arithmétique","diviseur"],"theme":"Arithmétique","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/diviseurs-communs/","title":"Diviseurs communs","hide":true,"tags":["arithmétique","diviseur"],"dg-note-properties":{"title":"Diviseurs communs","tags":["arithmétique","diviseur"],"theme":"Arithmétique","niveaux":["3e"]}}
 ---
 
 # Diviseurs communs

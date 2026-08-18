@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-5e/5e-fractions-egales/","title":"Fractions égales","tags":["égalité","fraction"],"dg-note-properties":{"title":"Fractions égales","description":"Reconnaître deux fractions égales.","tags":["égalité","fraction"],"theme":"Arithmétique","niveaux":["5e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-5e/5e-fractions-egales/","title":"Fractions égales","tags":["égalité","fraction"],"dg-note-properties":{"title":"Fractions égales","tags":["égalité","fraction"],"theme":"Arithmétique","niveaux":["5e"]}}
 ---
 
 >[!propriete] Propriété (admise) :

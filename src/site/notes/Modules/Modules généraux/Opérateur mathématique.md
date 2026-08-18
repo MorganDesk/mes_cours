@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-generaux/operateur-mathematique/","dg-note-properties":{"draft":false,"niveaux":["général"],"theme":"Nombres et calcul"}}
+{"dg-publish":true,"permalink":"/modules/modules-generaux/operateur-mathematique/","dg-note-properties":{"niveaux":["général"],"theme":"Nombres et calcul"}}
 ---
 
 >[!definition] Définition :

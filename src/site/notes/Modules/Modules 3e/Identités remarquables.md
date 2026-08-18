@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/identites-remarquables/","title":"Identités remarquables","hide":true,"tags":["identités","remarquables","développer","factoriser"],"dg-note-properties":{"title":"Identités remarquables","description":"Connaître les identités remarquables et les utiliser pour développer et factoriser une expression littérale.","tags":["identités","remarquables","développer","factoriser"],"theme":"Calcul littéral","niveaux":["3e"],"draft":true}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/identites-remarquables/","title":"Identités remarquables","hide":true,"tags":["identités","remarquables","développer","factoriser"],"dg-note-properties":{"title":"Identités remarquables","tags":["identités","remarquables","développer","factoriser"],"theme":"Calcul littéral","niveaux":["3e"]}}
 ---
 
 # Identités remarquables

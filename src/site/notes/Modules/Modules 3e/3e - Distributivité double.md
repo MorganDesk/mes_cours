@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-distributivite-double/","title":"Distributivité double","dg-note-properties":{"title":"Distributivité double","description":null,"tags":null,"theme":"Calcul littéral","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-distributivite-double/","title":"Distributivité double","tags":["littéral","distributivité"],"dg-note-properties":{"title":"Distributivité double","tags":["littéral","distributivité"],"theme":"Calcul littéral","niveaux":["3e"]}}
 ---
 
 

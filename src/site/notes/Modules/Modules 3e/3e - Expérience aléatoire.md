@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-experience-aleatoire/","title":"Expérience aléatoire","dg-note-properties":{"title":"Expérience aléatoire","description":null,"tags":null,"theme":"Gestion de données","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-experience-aleatoire/","title":"Expérience aléatoire","tags":["probabilité"],"dg-note-properties":{"title":"Expérience aléatoire","tags":["probabilité"],"theme":"Gestion de données","niveaux":["3e"]}}
 ---
 
 # Expérience aléatoire

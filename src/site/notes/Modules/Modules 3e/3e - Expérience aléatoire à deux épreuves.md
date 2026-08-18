@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/modules/modules-3e/3e-experience-aleatoire-a-deux-epreuves/","title":"Expérience aléatoire à deux épreuves","dg-note-properties":{"title":"Expérience aléatoire à deux épreuves","description":null,"tags":null,"theme":"Gestion de données","niveaux":["3e"]}}
+{"dg-publish":true,"permalink":"/modules/modules-3e/3e-experience-aleatoire-a-deux-epreuves/","title":"Expérience aléatoire à deux épreuves","tags":["probabilité"],"dg-note-properties":{"title":"Expérience aléatoire à deux épreuves","tags":["probabilité"],"theme":"Gestion de données","niveaux":["3e"]}}
 ---
 
 # Expérience aléatoire à deux épreuves
