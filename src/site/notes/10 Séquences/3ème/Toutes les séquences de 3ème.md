@@ -7,7 +7,7 @@
 [[10 Séquences/3ème/3e - Notion de fonctions\|3e - Notion de fonctions]]
 [[10 Séquences/3ème/3e - Probabilités\|3e - Probabilités]]
 [[10 Séquences/3ème/3e - Triangles semblables et théorème de Thalès\|3e - Triangles semblables et théorème de Thalès]]
-[[3e - Fonctions affines et linéaires\|3e - Fonctions affines et linéaires]]
+[[10 Séquences/3ème/3e - Fonctions affines et linéaires\|3e - Fonctions affines et linéaires]]
 [[Statistiques\|Statistiques]]
 [[Arithmétique\|Arithmétique]]
 [[Transformations\|Transformations]]

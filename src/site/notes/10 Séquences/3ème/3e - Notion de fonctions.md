@@ -14,6 +14,3 @@
 [[Modules/Modules 3e/3e - Représentation algébrique d’une fonction\|3e - Représentation algébrique d’une fonction]]
 [[Modules/Modules 3e/3e - Tableau de valeur d’une fonction\|3e - Tableau de valeur d’une fonction]]
 [[Modules/Modules 3e/3e - Représentation graphique d’une fonction\|3e - Représentation graphique d’une fonction]]
-
-## Déterminer l’équation d’une droite
-[[Modules/Modules 3e/3e - Déterminer l’équation d’une droite\|3e - Déterminer l’équation d’une droite]]
