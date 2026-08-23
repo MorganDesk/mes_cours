@@ -12,17 +12,3 @@
 >[!exemple] Exemples :
 >1. $3x+2x=3 \times x + 2 \times x = (3+2) \times x = 5 \times x = 5x$
 >2. $7a-4a=(7-4) \times a=3a$
-
->[!exercice]- Exercice : ⭐
->Réduire les expressions littérales suivantes :
->1. $7x+3x$
->2. $8x-5x$
->3. $4x+7-3+2x$
-
->[!exercice]- Correction :
->1. $10x$
->2. $3x$
->3. $6x+4$
-
-
-

@@ -21,18 +21,3 @@
 >Développer $A=3(2x+1)$ :
 >$$\begin{aligned}A&=3 \times 2x + 3 \times 1\\&=6x+3\end{aligned}$$
 
-# Entraine-toi !
-
->[!exercice]- Exercice : ⭐
->Développer et réduire $A=3(2x+4)$ et $B=x(5x-2)$
-
->[!exercice]- Correction :
->$\begin{aligned}A&=3(2x+4)\\&=3 \times 2x + 3 \times 4\\&=6x+12\end{aligned}$
->$\begin{aligned}B&=x(5x-2)\\&=x \times 5x - x \times 2\\&=5x^2-2x\end{aligned}$
-
->[!exercice]- Exercice : ⭐⭐⭐
->Développer et réduire $C=5(2x+3)+3(x-2)$.
-
->[!exercice]- Correction :
->$\begin{aligned}C&=5(2x+3)+3(x-2)\\&=10x+15+3x-6\\&=13x+9\end{aligned}$
-
