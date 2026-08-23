@@ -28,5 +28,18 @@
 > 
 > Le facteur commun est $(a-3)$.
 >$$H = (a-3)(2y+1)-(a-3)(y-2)$$
->*(Attention aux signes lors du passage de $- (y-2)$ à $+(-y+2)$)* 
->$$\begin{aligned} H &= [2y + 1 - y + 2](a-3) \\ &= (y+3)(a-3) \end{aligned}$$ 
+>*(Attention aux signes « - » lors du passage de $- (y-2)$ à $(-y+2)$)* 
+>$$\begin{aligned} H &= (a-3)[(2y + 1) - (y - 2)] \\&=(a-3)[2y+1-y+2]\\ &= (a-3)(y+3) \end{aligned}$$ 
+
+>[!exercice]- QCM :
+>1. Quelle est la forme factorisée de l’expression $A=5x^2-10x$ ?
+>	1. $5(x^2-2x)$
+>	2. $5x(x-2)$
+>	3. $5x(x-10)$
+>	4. $x(5x-5)$
+>2. Quelle est la forme factorisée et réduite de l’expression $B=(3x-4)(2x+5)-(3x-4)(x-1)$ ?
+>	1. $(3x-4)(x+4)$
+>	2. $(3x-4)(x+6)$
+>	3. $(3x-4)(3x+4)$
+>	4. $(3x-4)(x-5)$
+

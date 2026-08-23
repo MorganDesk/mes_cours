@@ -18,3 +18,10 @@
 >Quand il y a des soustractions, on peut transformer les soustractions en addition de l’opposé pour éviter les erreurs de signe.
 >$$\begin{aligned}B&=(5x-3)(2x+1)\\&=(5x+(-3))(2x+1)\\&=5x \times 2x+5x \times 1+(-3) \times (2x)+(-3) \times 1\\&=10x^2+5x-6x-3\\&=10x^2-x-3\end{aligned}$$
 
+>[!exercice]- QCM (4e):
+>1. Quelle est la forme développée et réduite de l’expression $C=(2x+3)(x+4)$ ?
+>	1. $2x^2+12$
+>	2. $2x^2+11x+12$
+>	3. $2x^2+7x+12$
+>	4. $3x^3+11x+12$
+

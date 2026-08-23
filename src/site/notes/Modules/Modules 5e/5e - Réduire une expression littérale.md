@@ -7,8 +7,7 @@
 >**Réduire** une expression littérale, c’est l’écrire avec le moins d’opérations possibles.
 
 >[!remarque] Remarque :
->On peut réduire une expression à l’aide de la [[Modules/Modules 5e/5e - Factoriser\|factorisation]].
+>Pour réduire une expression littérale, on « met ensemble » les termes qui se ressemblent en faisant attention aux signes.
 
->[!exemple] Exemples :
->1. $3x+2x=3 \times x + 2 \times x = (3+2) \times x = 5 \times x = 5x$
->2. $7a-4a=(7-4) \times a=3a$
+>[!exemple] Exemple :
+>$\begin{aligned}7x+4-3x+6&=7x-3x+4+6\\&=(7-3)x+10\\&=4x+10\end{aligned}$

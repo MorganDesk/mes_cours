@@ -74,11 +74,29 @@ $$x \longrightarrow x \times 3 \longrightarrow x \times 3 + 5$$
 >**Réduire** une expression littérale, c’est l’écrire avec le moins d’opérations possibles.
 
 >[!remarque] Remarque :
->On peut réduire une expression à l’aide de la [[Modules/Modules 5e/5e - Factoriser\|factorisation]].
+>Pour réduire une expression littérale, on « met ensemble » les termes qui se ressemblent en faisant attention aux signes.
 
->[!exemple] Exemples :
->1. $3x+2x=3 \times x + 2 \times x = (3+2) \times x = 5 \times x = 5x$
->2. $7a-4a=(7-4) \times a=3a$
+>[!exemple] Exemple :
+>$\begin{aligned}7x+4-3x+6&=7x-3x+4+6\\&=(7-3)x+10\\&=4x+10\end{aligned}$
 
 
 </div></div>
+
+
+>[!exercice]- QCM :
+>1. Quelle est l’écriture réduite de l’expression $A=4 \times x \times 3 \times x$ ?
+>	1. $7x^2$
+>	2. $12x$
+>	3. $12x^2$
+>	4. $43x^2$
+>2. Quelles est la forme réduite de l’expression $B=7x^2-3x+2+5x-4x^2-8$ ?
+>	1. $3x^2+2x-6$
+>	2. $3x^2-8x-6$
+>	3. $11x^2+2x+10$
+>	4. $5x^3-6$
+>3. Pour $x=3$, quelle est la valeur de l’expression $C=2x^2-5x+1$ ?
+>	1. $-32$
+>	2. $34$
+>	3. $-2$
+>	4. $4$
+
