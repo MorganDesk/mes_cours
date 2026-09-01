@@ -27,7 +27,8 @@ Représente cette situation et compte le nombre de liens pour :
 4. Quel est alors le nombre de liens total dans un groupe de 10 élèves ?
 # Etape 3 : Généralisation pour la classe complète (Calculer et communiquer)
 
-1. **Formule générale :** Pour un groupe composé de $N$ élèves, quelle formule mathématique permet de calculer le nombre total de connexions dans la classe ? $$\text{Nombre total de liens} = \ldots$$
+1. **Formule générale :** Pour un groupe composé de $N$ élèves, quelle formule mathématique permet de calculer le nombre total de connexions dans la classe ? 
+$$\text{Nombre total de liens} = \ldots$$
 2. **Application à la classe :**
 	- Dans la classe il y a $N=\ldots$ élèves.
 	- Quel est le nombre total de liens dans cette classe ?
