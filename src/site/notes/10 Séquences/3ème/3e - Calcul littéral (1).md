@@ -9,6 +9,7 @@
 ## Développer et factoriser
 [[Modules/Modules 3e/3e - Développer\|3e - Développer]]
 [[Modules/Modules 3e/3e - Factoriser\|3e - Factoriser]]
+[[3e - Opposé d’une somme ou d’une différence\|3e - Opposé d’une somme ou d’une différence]]
 
 ## Distributivité double
 [[Modules/Modules 3e/3e - Distributivité double\|3e - Distributivité double]]
