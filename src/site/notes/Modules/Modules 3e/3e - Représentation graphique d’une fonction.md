@@ -19,3 +19,4 @@ C’est la droite (ou courbe) dessinée dans un repère orthogonal. On peut la t
 > 	- L’image de 2 par la fonction *h* est 3.
 > - Pour chercher **le ou les antécédants d’un nombre *y*** : on part du nombre sur l’axe des ordonnées, on rejoint horizontalement la droite (ou courbe), puis on lit les abscisses des points rencontrés.
 > 	- L’antécédant de -3 par la fonction *h* est -1.
+

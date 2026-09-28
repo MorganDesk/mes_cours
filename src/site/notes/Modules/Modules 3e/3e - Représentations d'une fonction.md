@@ -14,13 +14,16 @@ On utilise régulièrement trois représentations pour une [[Modules/Modules 3e/
 
 # Représentation algébrique d’une fonction
 
-C’est l’expression littérale qui définit la fonction. Elle permet de calculer des [[Modules/Modules 3e/3e - Antécédant et image\|images]] et de retrouver des [[Modules/Modules 3e/3e - Antécédant et image\|antécédants]] de manière exacte.
+>[!definition] Définition :
+>La **représentation algébrique** d’une fonction est l’expression littérale qui définit la fonction. Elle permet de calculer des [[Modules/Modules 3e/3e - Antécédant et image\|images]] et de retrouver des [[Modules/Modules 3e/3e - Antécédant et image\|antécédants]] de manière exacte.
 
 >[!exemple] Exemple
 >Soit $h(x)=2x-1$.
 >- Calculer l’[[Modules/Modules 3e/3e - Antécédant et image\|image]] de 5 : $h(5)=2 \times 5 -1=10-1=9$.
 >- Retrouver l’[[Modules/Modules 3e/3e - Antécédant et image\|antécédant]] de 4. Pour cela on résout une équation : 
 >$$\begin{aligned}2x-1&=4\\2x-1+1&=4+1\\2x&=5\\x&=\frac{5}{2}\end{aligned}$$
+
+
 
 </div></div>
 
@@ -67,5 +70,7 @@ C’est la droite (ou courbe) dessinée dans un repère orthogonal. On peut la t
 > 	- L’image de 2 par la fonction *h* est 3.
 > - Pour chercher **le ou les antécédants d’un nombre *y*** : on part du nombre sur l’axe des ordonnées, on rejoint horizontalement la droite (ou courbe), puis on lit les abscisses des points rencontrés.
 > 	- L’antécédant de -3 par la fonction *h* est -1.
+
+
 
 </div></div>

@@ -6,3 +6,4 @@
 >[!propriete] Notations
 >- On note : $f:x \mapsto f(x)$ (se lit : «la fonction *f* qui a *x* associe le nombre *f(x)*»).
 >- On écrit : $y=f(x)$ (le nombre d’arrivé *y* est égal à l’image du nombre de départ *x* par la fonction *f*).
+
