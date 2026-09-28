@@ -13,7 +13,7 @@
 >| --------------- | --- | --- | --- | --- | --- | --- |
 >| **Probabilité** | 0,1 | 0,2 | 0,1 | 0,3 | 0,1 | 0,2 |
 >
->Quelle est la probabilité de l’événement B : `Obtenir un nombre pair` ?
+>Quelle est la probabilité de l’événement B : « Obtenir un nombre pair » ?
 >
 >$P(B)=P(2)+P(4)+P(6)=0,2+0,3+0,2=0,7$.
 >La probabilité de l’événement $B$ est 0,7.

@@ -12,8 +12,8 @@
 
 >[!exemple] Exemple :
 >Si on lance un dé à 6 faces :
->- L’événement `Obtenir un nombre entier` est certain.
->- L’événement `Obtenir 7` est impossible.
+>- L’événement « Obtenir un nombre entier » est certain.
+>- L’événement « Obtenir 7 » est impossible.
 
 >[!remarque] Remarque :
 >On peut exprimer une probabilité sous plusieurs formes : nombre décimal, fraction, pourcentage.

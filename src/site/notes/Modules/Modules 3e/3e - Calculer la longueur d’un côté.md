@@ -14,7 +14,7 @@
 >- On connaît la longueur opposée à l’angle $\widehat{I}$ et on cherche la longueur adjacente.
 >
 >**Or** : (on site la propriété ou formule utilisée)
->$$tan(\widehat{TIR})=\frac{opposé}{hypothènuse}$$
+>$$tan(\widehat{TIR})=\frac{opposé}{adjacent}$$
 >**Donc :** (on mène les calculs et on conclut)
 >$$\begin{aligned}tan(\widehat{TIR})&=\frac{TR}{TI}\\TI \times tan(50°)&=7\\TI&=7 \div tan(50°)\\TI&\approx 5,9cm\end{aligned}$$
 

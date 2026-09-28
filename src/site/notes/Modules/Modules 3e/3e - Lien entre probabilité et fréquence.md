@@ -14,4 +14,4 @@
 >| **Probabilité (décimale)** |     |     |     |     |     |     |
 >| **Effectif**               |     |     |     |     |     |     |
 >| **Fréquence**              |     |     |     |     |     |     |
->
+

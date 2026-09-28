@@ -11,8 +11,8 @@
 >- **Univers** : L’univers est l’ensemble de toutes les issues.
 
 >[!exemple] Exemple :
->`Lancer un dé à 6 faces et noter la face obtenue` est une expérience aléatoire.
+> « Lancer un dé à 6 faces et noter la face obtenue » est une expérience aléatoire.
 >Les issues sont : 1 ; 2 ; 3 ; 4 ; 5 ; 6.
->`Obtenir une face paire` est un événement qui regroupe les issues : 2 ; 4 ; 6.
->`Obtenir 1` est un événement élémentaire.
+> « Obtenir une face paire » est un événement qui regroupe les issues : 2 ; 4 ; 6.
+> « Obtenir 1 » est un événement élémentaire.
 

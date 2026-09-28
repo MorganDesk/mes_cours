@@ -14,10 +14,10 @@
 >[!exemple] Exemple :
 >Dans une urne, on dispose de 3 boules vertes, 5 boules rouges et 11 boules jaunes indiscernables au toucher.
 >
->On considère l’événement $R$ : `Tirer une boule rouge`.
+>On considère l’événement $R$ : « Tirer une boule rouge ».
 >On a $5$ boules rouges et $3+5+11=19$ boules au total.
 >La probabilité de tirer une boule rouge est $P(R)=\frac{5}{19}$.
 >
->L’événement contraire de $R$, nommé $\overline R$ est : `Tirer une boule verte ou jaune`.
+>L’événement contraire de $R$, nommé $\overline R$ est : « Tirer une boule qui n’est pas rouge », que l’on peut aussi exprimer « Tirer une boule verte ou jaune ».
 >La probabilité de l’événement $\overline R$ est $P(\overline R)=1-\frac{5}{19}=\frac{14}{19}$.
 
